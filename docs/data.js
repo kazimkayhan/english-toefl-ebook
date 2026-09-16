@@ -1,4 +1,4 @@
-// Generated curriculum data - Complete pedagogical content for all 600 lessons
+// Generated curriculum data - Week 1 hand-validated for quality
 const CURRICULUM = {
   "title": "English to TOEFL: A0→C2 Daily Lesson Cards",
   "description": "A complete 100-week daily curriculum from absolute beginner to C2/TOEFL iBT peak",
@@ -17,81 +17,88 @@ const CURRICULUM = {
           "number": 1,
           "title": "Alphabet, sounds, greetings",
           "levelBand": "A0/A1",
-          "grammarFocus": "be (I am / you are); alphabet & phonics",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "Subject pronouns; be (am/is/are) affirmative; this/that",
+          "pronunciation": "Alphabet letter names A–Z; vowels /iː/ /ɪ/ /æ/ /ʌ/ /ə/; clear stress on names",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration)",
           "days": [
             {
               "number": 1,
               "title": "Alphabet & letter sounds",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Alphabet & letter sounds'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Alphabet & letter sounds\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Say the English alphabet clearly, name vowels vs consonants, and spell your name letter by letter.",
+              "warmup": "Listen to an alphabet chant once, then say A–Z aloud slowly. Clap on each letter. Record yourself once and listen for unclear letters (often G, J, H, R, W, Y).",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "Letter names are nouns: \"A is a letter.\" Use be with singular: \"A is a vowel.\" \"B is a consonant.\" No am/is/are contrast yet beyond is for facts about letters.",
                 "vocab": [
+                  "alphabet",
                   "letter",
-                  "sound",
                   "vowel",
                   "consonant",
                   "capital",
                   "lowercase",
-                  "pronunciation",
                   "spell",
-                  "alphabet",
-                  "word"
+                  "name",
+                  "sound",
+                  "A B C D E F G",
+                  "H I J K L M N",
+                  "O P Q R S T U",
+                  "V W X Y Z"
                 ],
                 "examples": [
-                  "The letter A is a vowel.",
-                  "B is a consonant sound.",
-                  "I can spell my name.",
-                  "Please write in lowercase.",
-                  "The alphabet has 26 letters."
+                  "The English alphabet has 26 letters.",
+                  "A, E, I, O, and U are vowels.",
+                  "B is a consonant.",
+                  "My name starts with a capital letter.",
+                  "Please spell your name: K-A-Z-I-M."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ letter.\n4. They ___ not sound.\n5. He ___ vowel.\n6. We ___ consonant and capital.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) letter\n\n**Sentence transformation:** Make these sentences negative:\n1. I am letter. → I am not letter.\n2. She is sound. → __________\n3. They are vowel. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is letter. → __________\n3. They are sound. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about alphabet & letter sounds. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: letter, sound, vowel, consonant, capital. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about alphabet & letter sounds. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: letter, sound, vowel, consonant, capital, lowercase. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1. Alphabet order:** Cover the list and write A–Z from memory. Check. Fix any missing letters.\n\n**2. Vowel or consonant?** Mark V or C: B ___, E ___, K ___, O ___, S ___, U ___, Y ___ (Y is usually a consonant at the start of yes; note it can act like a vowel in my — accept either with a reason).\n\n**3. Capital vs lowercase:** Rewrite: a → ___, m → ___, z → ___. Then: T → ___, R → ___.\n\n**4. Spell aloud:** Spell these slowly: pen, book, hello, your first name. Point to each letter as you say it.\n\n**5. Listen & choose:** Say three letter names to yourself in a different order (e.g. M–B–T). Write what you said. Repeat with five letters.",
+              "produce": "**Speak (60–90 sec):** Record: (1) A–Z once, (2) \"The vowels are A E I O U,\" (3) spell your full name twice, slowly.\n\n**Write (40–60 words):** Copy and complete:\n- The alphabet has ___ letters.\n- ___ are vowels.\n- My name is ___.\n- I spell it: ___.\nAdd two more sentences about capital and lowercase letters.",
+              "review": "Anki: A–Z letter names (front: letter shape, back: English name). Add 5 cards: vowel, consonant, capital, lowercase, spell. Tag: Week1-Day1.",
+              "checkpoint": "Without notes: (1) Say A–Z with ≤2 hesitations. (2) List the five vowel letters. (3) Spell your first name correctly aloud. Pass = all three Yes."
             },
             {
               "number": 2,
               "title": "Greetings & introductions",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Greetings & introductions'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Greetings & introductions\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Greet people at different times of day, introduce yourself, ask someone’s name, and say goodbye politely.",
+              "warmup": "Shadow 5 times: \"Hello! My name is ___. Nice to meet you.\" Then: \"Good morning.\" \"Good afternoon.\" \"Good evening.\" \"Goodbye.\"",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "be with I/you: I am ___ / I'm ___. You are ___ / You're ___. Questions: What is your name? → What's your name? How are you? → I am fine. / I'm fine, thank you.",
                 "vocab": [
                   "hello",
                   "hi",
+                  "good morning",
+                  "good afternoon",
+                  "good evening",
+                  "good night",
                   "goodbye",
                   "bye",
-                  "morning",
-                  "afternoon",
-                  "evening",
-                  "pleased",
-                  "meet",
-                  "fine"
+                  "name",
+                  "Nice to meet you",
+                  "How are you?",
+                  "I'm fine",
+                  "thank you",
+                  "please"
                 ],
                 "examples": [
-                  "Hello! My name is Anna.",
+                  "Hello! My name is Sara. What is your name?",
+                  "Hi, I'm Omar. Nice to meet you.",
                   "Good morning, teacher.",
-                  "Nice to meet you.",
-                  "I am fine, thank you.",
+                  "How are you? — I'm fine, thank you.",
                   "Goodbye! See you tomorrow."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ hello.\n4. They ___ not hi.\n5. He ___ goodbye.\n6. We ___ bye and morning.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) hello\n\n**Sentence transformation:** Make these sentences negative:\n1. I am hello. → I am not hello.\n2. She is hi. → __________\n3. They are goodbye. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is hello. → __________\n3. They are hi. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about greetings & introductions. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: hello, hi, goodbye, bye, morning. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about greetings & introductions. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: hello, hi, goodbye, bye, morning, afternoon. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1. Choose the greeting:** morning → ___; 15:00 → ___; 20:00 → ___; leaving a party → ___ / ___.\n\n**2. Unscramble:** (a) name / My / Anna / is (b) meet / to / Nice / you (c) you / How / are (?)\n\n**3. Dialogue fill:**\nA: Hello! ___ name is Leo.\nB: Hi, ___ Maya. Nice to ___ you.\nA: ___ are you?\nB: I ___ fine, ___ you.\n\n**4. Formality:** Match casual/formal: Hi ↔ ___; Good evening ↔ ___; Bye ↔ ___.\n\n**5. Pronunciation:** Stress on nice and meet in \"Nice to meet you.\" Record once.",
+              "produce": "**Speak (60–90 sec):** Act both people in a short dialogue: greet → exchange names → \"Nice to meet you\" → \"How are you?\" → answer → goodbye. Use am/is at least four times.\n\n**Write (50–70 words):** Write the same dialogue as a script with A: and B: lines. Check capital letters and question marks.",
+              "review": "Anki: full phrases (not single words) — Hello!, Good morning, Nice to meet you, How are you?, I'm fine thank you, Goodbye. Tag: Week1-Day2.",
+              "checkpoint": "Without notes, perform the full greeting dialogue aloud. Must include: greeting, your name, ask their name, Nice to meet you, How are you + answer, goodbye. Pass = all parts present."
             },
             {
               "number": 3,
               "title": "Numbers 0–20 & age",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Numbers 0–20 & age'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Numbers 0–20 & age\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Say and write numbers 0–20, give your age with be, and ask someone’s age politely.",
+              "warmup": "Count 0–20 aloud twice. Then count backward 20–0. Clap on every fifth number (0,5,10,15,20).",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "Age with be: I am 20 years old. / She is 10. Question: How old are you? — I am ___. Use years old after numbers other than 1 (one year old / two years old).",
                 "vocab": [
                   "zero",
                   "one",
@@ -102,61 +109,93 @@ const CURRICULUM = {
                   "six",
                   "seven",
                   "eight",
-                  "nine"
+                  "nine",
+                  "ten",
+                  "eleven",
+                  "twelve",
+                  "thirteen",
+                  "fourteen",
+                  "fifteen",
+                  "sixteen",
+                  "seventeen",
+                  "eighteen",
+                  "nineteen",
+                  "twenty",
+                  "number",
+                  "age",
+                  "years old",
+                  "How old are you?"
                 ],
                 "examples": [
-                  "I am ten years old.",
-                  "My phone number is five-five-five.",
-                  "There are twelve months.",
-                  "I have two brothers.",
-                  "She is twenty-three."
+                  "I am eighteen years old.",
+                  "How old are you? — I am twenty.",
+                  "She is eleven years old.",
+                  "My phone number ends with seven-zero.",
+                  "There are twenty students."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ zero.\n4. They ___ not one.\n5. He ___ two.\n6. We ___ three and four.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) zero\n\n**Sentence transformation:** Make these sentences negative:\n1. I am zero. → I am not zero.\n2. She is one. → __________\n3. They are two. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is zero. → __________\n3. They are one. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about numbers 0–20 & age. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: zero, one, two, three, four. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about numbers 0–20 & age. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: zero, one, two, three, four, five. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1. Write the words:** 0 ___, 8 ___, 11 ___, 13 ___, 15 ___, 18 ___, 20 ___.\n\n**2. Write the digits:** twelve ___, fourteen ___, sixteen ___, nineteen ___.\n\n**3. Gap-fill (age):**\n1. I ___ sixteen years old.\n2. He ___ ten.\n3. How old ___ you?\n4. They ___ twenty years old.\n\n**4. Listen-style self-dictation:** Say five numbers; write them in digits and words.\n\n**5. Teen vs ten:** Contrast aloud: thirteen / thirty (preview only — focus on thirteen’s -teen). thirteen, fourteen, fifteen.",
+              "produce": "**Speak (60–90 sec):** Say numbers 0–20. Then: \"I am ___ years old.\" Ask and answer \"How old are you?\" three times with different ages (real or practice ages).\n\n**Write (50–70 words):** Write 6 sentences: your age, a friend’s age, two phone-number style digit lines in words, and \"How old are you?\" with an answer.",
+              "review": "Anki: 0–20 (digit ↔ word). Phrase cards: years old, How old are you?. Tag: Week1-Day3.",
+              "checkpoint": "Write 0–20 in words with ≤2 errors. Say your age correctly with am + years old. Ask How old are you? Pass = Yes on all."
             },
             {
               "number": 4,
               "title": "Classroom objects + this/that",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Classroom objects + this/that'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Classroom objects + this/that\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Name common classroom objects and point with this (near) vs that (far); ask What is this/that?",
+              "warmup": "Look around you. Point near: \"This is a ___.\" Point far: \"That is a ___.\" Do eight objects.",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "this + singular (near): This is a pen. that + singular (far): That is a board. Questions: What is this? What is that? Answers: It is a ___. / It's a ___. a/an: a book, a pen, an eraser (vowel sound).",
                 "vocab": [
+                  "this",
+                  "that",
+                  "What is this?",
+                  "What is that?",
                   "book",
                   "pen",
                   "pencil",
+                  "eraser",
+                  "bag",
                   "desk",
                   "chair",
                   "board",
+                  "door",
+                  "window",
+                  "notebook",
+                  "phone",
                   "teacher",
-                  "student",
-                  "paper",
-                  "notebook"
+                  "student"
                 ],
                 "examples": [
-                  "This is my book.",
-                  "The pen is on the desk.",
-                  "She is a good teacher.",
-                  "I am a student.",
-                  "My notebook is blue."
+                  "This is a pen.",
+                  "That is the board.",
+                  "What is this? — It is a notebook.",
+                  "What is that? — It is a window.",
+                  "This is my bag. That is your desk."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ book.\n4. They ___ not pen.\n5. He ___ pencil.\n6. We ___ desk and chair.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) book\n\n**Sentence transformation:** Make these sentences negative:\n1. I am book. → I am not book.\n2. She is pen. → __________\n3. They are pencil. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is book. → __________\n3. They are pen. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about classroom objects + this/that. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: book, pen, pencil, desk, chair. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about classroom objects + this/that. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: book, pen, pencil, desk, chair, board. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1. this or that?** (near/far): pen in your hand → ___ is a pen. door across the room → ___ is a door.\n\n**2. a/an:** ___ book, ___ eraser, ___ apple (classroom word or picture), ___ chair, ___ umbrella (if present).\n\n**3. Questions:** Write answers:\nWhat is this? (pencil) → ___\nWhat is that? (chair) → ___\n\n**4. Label:** Draw a simple desk scene; label 8 objects; write This/That sentences for 6 of them.\n\n**5. Minimal pairs speak:** this/that ×10 alternating while pointing near/far.",
+              "produce": "**Speak (60–90 sec):** Hold or point to 10 objects. For each: \"This/That is a ___.\" Include two What is this/that? self-questions and answers.\n\n**Write (60–80 words):** 8 sentences using this/that + classroom vocab. At least two questions with answers.",
+              "review": "Anki: classroom nouns with picture. Grammar cards: This is a ___, That is a ___, What is this?. Tag: Week1-Day4.",
+              "checkpoint": "Point to 8 real objects using this/that correctly (near vs far). Ask and answer What is this? twice. Pass = ≤1 distance error."
             },
             {
               "number": 5,
-              "title": "Simple be sentences",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Simple be sentences'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Simple be sentences\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "title": "Simple be sentences (I/you/he/she)",
+              "goal": "Build affirmative be sentences with I, you, he, she + name, job/role, or feeling adjective.",
+              "warmup": "Repeat paradigm: I am — you are — he is — she is. Then substitute: I am a student. You are a teacher. He is happy. She is cold.",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "Full paradigm (singular focus): I am, you are, he is, she is. Contractions: I'm, you're, he's, she's. Affirmative only today. Pattern: Subject + be + noun/adjective. He/She + name: He is Ali. She is a teacher.",
                 "vocab": [
+                  "I",
+                  "you",
+                  "he",
+                  "she",
+                  "am",
+                  "is",
+                  "are",
+                  "student",
+                  "teacher",
                   "happy",
                   "sad",
                   "tired",
@@ -164,54 +203,58 @@ const CURRICULUM = {
                   "thirsty",
                   "hot",
                   "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "from",
+                  "friend"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I am a student.",
+                  "You are my friend.",
+                  "He is tired.",
+                  "She is a teacher.",
+                  "I am from Kabul. She is happy today."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about simple be sentences. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about simple be sentences. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1. Choose am/is/are:**\n1. I ___ hungry.\n2. She ___ a teacher.\n3. You ___ cold.\n4. He ___ my friend.\n5. I ___ from Afghanistan.\n\n**2. Rewrite with contractions:** I am → ___; she is → ___; you are → ___; he is → ___.\n\n**3. Make sentences:** (he / sad), (she / student), (I / thirsty), (you / hot).\n\n**4. Error fix:** She am happy. → ___. He are a teacher. → ___. I is fine. → ___.\n\n**5. Swap drill:** Change person: \"I am tired\" → he ___ / she ___ / you ___.",
+              "produce": "**Speak (60–90 sec):** 10 be sentences mixing I/you/he/she + role or feeling. Include at least one from + place.\n\n**Write (60–80 words):** 8–10 sentences about you, a friend (he/she), and your teacher. Underline every am/is/are.",
+              "review": "Anki cloze: I ___ a student; She ___ happy; He ___ tired; You ___ my friend. Tag: Week1-Day5.",
+              "checkpoint": "Write 6 correct sentences: 2×I am, 1×you are, 2×he/she is, 1×from. Zero be errors = Pass."
             },
             {
               "number": 6,
               "title": "Week 1 review & sounds",
-              "goal": "Learn and use 'be (I am / you are); alphabet & phonics' accurately while expanding vocabulary for 'Week 1 review & sounds'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 1 review & sounds\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Integrate alphabet, greetings, numbers 0–20, this/that classroom language, and be sentences; tighten tricky sounds.",
+              "warmup": "2 min alphabet → 1 min count 0–20 → 1 min this/that pointing → 1 min I am / she is feelings.",
               "learn": {
-                "grammar": "be (I am / you are); alphabet & phonics",
+                "grammar": "Review map: (1) is for letter facts (2) I am / you are in greetings (3) am/is/are + age (4) This/That is a ___ (5) I/you/he/she + be + noun/adjective. Contractions optional but encouraged.",
                 "vocab": [
-                  "letter",
-                  "sound",
-                  "vowel",
-                  "consonant",
-                  "capital",
-                  "lowercase",
-                  "pronunciation",
-                  "spell",
                   "alphabet",
-                  "word"
+                  "vowel",
+                  "hello",
+                  "Nice to meet you",
+                  "How old are you?",
+                  "twenty",
+                  "this",
+                  "that",
+                  "pen",
+                  "board",
+                  "student",
+                  "teacher",
+                  "happy",
+                  "tired",
+                  "from"
                 ],
                 "examples": [
-                  "The letter A is a vowel.",
-                  "B is a consonant sound.",
-                  "I can spell my name.",
-                  "Please write in lowercase.",
-                  "The alphabet has 26 letters."
+                  "A is a vowel. My name is Ada — A-D-A.",
+                  "Hello! I am Ben. Nice to meet you.",
+                  "I am twenty years old.",
+                  "This is a pen. That is a board.",
+                  "She is a teacher. I am a student. I am happy."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ letter.\n4. They ___ not sound.\n5. He ___ vowel.\n6. We ___ consonant and capital.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) letter\n\n**Sentence transformation:** Make these sentences negative:\n1. I am letter. → I am not letter.\n2. She is sound. → __________\n3. They are vowel. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is letter. → __________\n3. They are sound. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 1 review & sounds. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: letter, sound, vowel, consonant, capital. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 1 review & sounds. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: letter, sound, vowel, consonant, capital, lowercase. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week1-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Station A — Sounds (10 min):** Minimal pairs: ship/sheep (/ɪ/ /iː/), cap/cup (/æ/ /ʌ/). Then spell three names aloud.\n\n**Station B — Dialogue (10 min):** Full greeting + age + one classroom this/that line + goodbye.\n\n**Station C — Accuracy (10 min):** Fix: You is a student. / This are a book. / I am twenty year old. / What is that? It am a door.\n\n**Station D — Dictation (5 min):** Write: \"Good morning. My name is Lina. I am nineteen years old. This is my notebook.\"",
+              "produce": "**Speak (90–120 sec):** One continuous monologue covering: spell your name, greet, say age, point this/that to two objects, say how you feel with I am, introduce a friend with he/she is.\n\n**Write (80–100 words):** Short paragraph using all five Day themes. Highlight am/is/are and this/that.",
+              "review": "Anki catch-up: all weak Week 1 cards. Add error cards from Station C. Tag: Week1-Day6.",
+              "checkpoint": "**Week 1 gate:** (1) A–Z + spell name (2) greeting dialogue (3) 0–20 + age sentence (4) 6× this/that object lines (5) 6× be sentences with I/you/he/she. Pass = 4/5 sections solid. Mark Yes/No per section."
             }
           ]
         },
