@@ -44,18 +44,25 @@ function parseCurriculum() {
 
         while ((weekMatch = weekRegex.exec(content)) !== null) {
             const weekNum = parseInt(weekMatch[1]);
-            const weekTitle = weekMatch[2].trim();
-            
-            // Extract week description
             const weekContent = weekMatch[0];
-            const levelBandMatch = weekContent.match(/\*\*Level band:\*\* (.+)/);
-            const grammarFocusMatch = weekContent.match(/\*\*Grammar focus:\*\* (.+)/);
+            
+            // Extract clean title (first line only, before any newline or metadata)
+            const titleMatch = weekMatch[2].match(/^([^\n*]+)/);
+            const weekTitle = titleMatch ? titleMatch[1].trim() : weekMatch[2].split('\n')[0].trim();
+            
+            // Extract metadata fields
+            const levelBandMatch = weekContent.match(/\*\*Level band:\*\*\s*([^\n*]+)/);
+            const grammarFocusMatch = weekContent.match(/\*\*Grammar focus:\*\*\s*([^\n*]+)/);
+            const pronunciationMatch = weekContent.match(/\*\*Weekly pronunciation:\*\*\s*([^\n*]+)/);
+            const studyLoadMatch = weekContent.match(/\*\*Study load:\*\*\s*([^\n*]+)/);
             
             const week = {
                 number: weekNum,
                 title: weekTitle,
                 levelBand: levelBandMatch ? levelBandMatch[1].trim() : stageInfo.stage,
                 grammarFocus: grammarFocusMatch ? grammarFocusMatch[1].trim() : '',
+                pronunciation: pronunciationMatch ? pronunciationMatch[1].trim() : '',
+                studyLoad: studyLoadMatch ? studyLoadMatch[1].trim() : '',
                 days: []
             };
 

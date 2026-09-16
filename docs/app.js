@@ -65,9 +65,10 @@ function renderStagesNav() {
 
         const button = document.createElement('button');
         button.className = 'stage-button';
+        button.style.borderLeft = `3px solid ${stage.color}`;
         button.innerHTML = `
-            <span><strong>${stage.name}</strong> (Weeks ${stage.weekRange[0]}–${stage.weekRange[1]})</span>
-            <span>▼</span>
+            <span><strong>${stage.name}</strong> <small>(Weeks ${stage.weekRange[0]}–${stage.weekRange[1]})</small></span>
+            <span class="expand-icon">›</span>
         `;
         button.onclick = () => toggleStage(stage, button);
 
@@ -78,7 +79,7 @@ function renderStagesNav() {
         stage.weeks.forEach(week => {
             const weekBtn = document.createElement('button');
             weekBtn.className = 'week-button';
-            weekBtn.textContent = `Week ${week.number}: ${week.title}`;
+            weekBtn.innerHTML = `<span class="week-num">Week ${week.number}</span><span class="week-title">${week.title}</span>`;
             weekBtn.onclick = () => selectWeek(stage, week);
             weeksList.appendChild(weekBtn);
         });
@@ -92,17 +93,23 @@ function renderStagesNav() {
 function toggleStage(stage, button) {
     const weeksList = button.nextElementSibling;
     const isOpen = weeksList.style.display === 'block';
+    const icon = button.querySelector('.expand-icon');
     
     // Close all
     document.querySelectorAll('.weeks-list').forEach(list => {
         list.style.display = 'none';
     });
+    document.querySelectorAll('.stage-button .expand-icon').forEach(i => {
+        i.style.transform = 'rotate(0deg)';
+    });
+    document.querySelectorAll('.stage-button').forEach(b => {
+        b.classList.remove('active');
+    });
     
     if (!isOpen) {
         weeksList.style.display = 'block';
         button.classList.add('active');
-    } else {
-        button.classList.remove('active');
+        icon.style.transform = 'rotate(90deg)';
     }
 }
 
@@ -125,15 +132,18 @@ function renderWeekContent(stage, week) {
     
     let html = `
         <div class="content-wrapper">
-            <div style="margin-bottom: 2rem;">
-                <div style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: 0.5rem;">
-                    ${stage.name} • Week ${week.number}
+            <div class="week-header">
+                <div class="breadcrumb">
+                    <span style="color: ${stage.color};">${stage.name}</span>
+                    <span class="breadcrumb-sep">›</span>
+                    <span>Week ${week.number}</span>
                 </div>
-                <h1>${week.title}</h1>
-                <div class="lesson-meta">
-                    <span>Level: ${week.levelBand}</span>
-                    ${week.grammarFocus ? `<span>Grammar: ${week.grammarFocus}</span>` : ''}
-                    <span>${week.days.length} Days</span>
+                <h1 class="week-title">${week.title}</h1>
+                <div class="week-meta-grid">
+                    ${week.levelBand ? `<div class="meta-chip"><strong>Level:</strong> ${week.levelBand}</div>` : ''}
+                    ${week.grammarFocus ? `<div class="meta-chip"><strong>Grammar:</strong> ${week.grammarFocus}</div>` : ''}
+                    ${week.studyLoad ? `<div class="meta-chip"><strong>Load:</strong> ${week.studyLoad}</div>` : ''}
+                    ${week.pronunciation ? `<div class="meta-chip meta-full"><strong>Pronunciation:</strong> ${week.pronunciation}</div>` : ''}
                 </div>
             </div>
     `;
@@ -151,8 +161,11 @@ function renderDayCard(weekNum, day) {
     let html = `
         <div class="lesson-card" id="week${weekNum}-day${day.number}">
             <div class="lesson-header">
-                <h2>Week ${weekNum} · Day ${day.number} — ${day.title}</h2>
-                ${day.goal ? `<p><strong>Goal:</strong> ${day.goal}</p>` : ''}
+                <div class="day-badge">Day ${day.number}</div>
+                <div class="day-header-content">
+                    <h2 class="day-title">${day.title}</h2>
+                    ${day.goal ? `<p class="day-goal">${escapeHtml(day.goal)}</p>` : ''}
+                </div>
             </div>
     `;
     
@@ -160,8 +173,8 @@ function renderDayCard(weekNum, day) {
     if (day.warmup) {
         html += `
             <div class="lesson-section">
-                <h3>1. Warm-up (10–15 min)</h3>
-                ${formatContent(day.warmup)}
+                <h3><span class="section-number">1</span> Warm-up <span class="time-badge">10–15 min</span></h3>
+                <div class="section-content">${formatContent(day.warmup)}</div>
             </div>
         `;
     }
@@ -170,20 +183,26 @@ function renderDayCard(weekNum, day) {
     if (day.learn && (day.learn.grammar || day.learn.vocab.length > 0)) {
         html += `
             <div class="lesson-section">
-                <h3>2. Learn (25–35 min)</h3>
-                ${day.learn.grammar ? `<p><strong>Grammar/Point:</strong> ${day.learn.grammar}</p>` : ''}
-                ${day.learn.vocab.length > 0 ? `
-                    <p><strong>Vocabulary:</strong></p>
-                    <ul>
-                        ${day.learn.vocab.map(v => `<li>${v}</li>`).join('')}
-                    </ul>
-                ` : ''}
-                ${day.learn.examples.length > 0 ? `
-                    <p><strong>Examples:</strong></p>
-                    <ul>
-                        ${day.learn.examples.map(e => `<li>${e}</li>`).join('')}
-                    </ul>
-                ` : ''}
+                <h3><span class="section-number">2</span> Learn <span class="time-badge">25–35 min</span></h3>
+                <div class="section-content">
+                    ${day.learn.grammar ? `<div class="info-item"><strong>Grammar:</strong> ${escapeHtml(day.learn.grammar)}</div>` : ''}
+                    ${day.learn.vocab.length > 0 ? `
+                        <div class="vocab-section">
+                            <strong>Vocabulary:</strong>
+                            <div class="vocab-grid">
+                                ${day.learn.vocab.map(v => `<span class="vocab-item">${escapeHtml(v)}</span>`).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+                    ${day.learn.examples.length > 0 ? `
+                        <div class="examples-section">
+                            <strong>Examples:</strong>
+                            <ul class="examples-list">
+                                ${day.learn.examples.map(e => `<li>${escapeHtml(e)}</li>`).join('')}
+                            </ul>
+                        </div>
+                    ` : ''}
+                </div>
             </div>
         `;
     }
@@ -192,8 +211,8 @@ function renderDayCard(weekNum, day) {
     if (day.practice) {
         html += `
             <div class="lesson-section">
-                <h3>3. Practice (20–25 min)</h3>
-                ${formatContent(day.practice)}
+                <h3><span class="section-number">3</span> Practice <span class="time-badge">20–25 min</span></h3>
+                <div class="section-content">${formatContent(day.practice)}</div>
             </div>
         `;
     }
@@ -202,8 +221,8 @@ function renderDayCard(weekNum, day) {
     if (day.produce) {
         html += `
             <div class="lesson-section">
-                <h3>4. Produce (20–25 min)</h3>
-                ${formatContent(day.produce)}
+                <h3><span class="section-number">4</span> Produce <span class="time-badge">20–25 min</span></h3>
+                <div class="section-content">${formatContent(day.produce)}</div>
             </div>
         `;
     }
@@ -212,8 +231,8 @@ function renderDayCard(weekNum, day) {
     if (day.review) {
         html += `
             <div class="lesson-section">
-                <h3>5. Review (10–15 min)</h3>
-                ${formatContent(day.review)}
+                <h3><span class="section-number">5</span> Review <span class="time-badge">10–15 min</span></h3>
+                <div class="section-content">${formatContent(day.review)}</div>
             </div>
         `;
     }
@@ -222,8 +241,11 @@ function renderDayCard(weekNum, day) {
     if (day.checkpoint) {
         html += `
             <div class="checkpoint-box">
-                <h3>✓ Checkpoint</h3>
-                ${formatContent(day.checkpoint)}
+                <div class="checkpoint-icon">✓</div>
+                <div class="checkpoint-content">
+                    <h3>Checkpoint</h3>
+                    <p>${escapeHtml(day.checkpoint)}</p>
+                </div>
             </div>
         `;
     }
@@ -232,22 +254,42 @@ function renderDayCard(weekNum, day) {
     return html;
 }
 
+function escapeHtml(text) {
+    if (!text) return '';
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
 function formatContent(text) {
     if (!text) return '';
     
-    // Convert markdown-style formatting
+    // First escape HTML
+    text = escapeHtml(text);
+    
+    // Then apply markdown-style formatting
     let formatted = text
         .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-        .replace(/\n\n/g, '</p><p>')
-        .replace(/\n-\s/g, '</p><ul><li>')
-        .replace(/\n/g, '<br>');
+        .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+        .split('\n\n')
+        .map(para => {
+            para = para.trim();
+            if (!para) return '';
+            
+            // Handle lists
+            if (para.includes('\n- ')) {
+                const items = para.split('\n- ').filter(i => i.trim());
+                const first = items.shift();
+                return (first ? `<p>${first}</p>` : '') + 
+                       '<ul>' + items.map(item => `<li>${item.trim()}</li>`).join('') + '</ul>';
+            }
+            
+            // Regular paragraph
+            return `<p>${para.replace(/\n/g, '<br>')}</p>`;
+        })
+        .join('');
     
-    // Wrap in paragraph if not already
-    if (!formatted.startsWith('<')) {
-        formatted = '<p>' + formatted + '</p>';
-    }
-    
-    return formatted;
+    return formatted || '<p>' + text + '</p>';
 }
 
 // Search functionality
