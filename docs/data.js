@@ -15,9 +15,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 1,
-          "title": "Alphabet, sounds, greetings\n**Level band:** A0/A1  \n**Grammar focus:** be (I am / you are); alphabet & phonics  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Alphabet, sounds, greetings",
           "levelBand": "A0/A1",
           "grammarFocus": "be (I am / you are); alphabet & phonics",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -211,9 +213,11 @@ const CURRICULUM = {
         },
         {
           "number": 2,
-          "title": "People & family; be + adjectives\n**Level band:** A0/A1  \n**Grammar focus:** be + adjectives; subject pronouns  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "People & family; be + adjectives",
           "levelBand": "A0/A1",
           "grammarFocus": "be + adjectives; subject pronouns",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -407,9 +411,11 @@ const CURRICULUM = {
         },
         {
           "number": 3,
-          "title": "Jobs, countries, nationalities\n**Level band:** A0/A1  \n**Grammar focus:** be questions & short answers; a/an  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Jobs, countries, nationalities",
           "levelBand": "A0/A1",
           "grammarFocus": "be questions & short answers; a/an",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -603,9 +609,11 @@ const CURRICULUM = {
         },
         {
           "number": 4,
-          "title": "Daily life & present simple (I/you)\n**Level band:** A0/A1  \n**Grammar focus:** Present simple affirmative (I/you/we/they)  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Daily life & present simple (I/you)",
           "levelBand": "A0/A1",
           "grammarFocus": "Present simple affirmative (I/you/we/they)",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -799,9 +807,11 @@ const CURRICULUM = {
         },
         {
           "number": 5,
-          "title": "Present simple he/she; likes\n**Level band:** A0/A1  \n**Grammar focus:** Present simple 3rd person -s; like/love  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Present simple he/she; likes",
           "levelBand": "A0/A1",
           "grammarFocus": "Present simple 3rd person -s; like/love",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -995,9 +1005,11 @@ const CURRICULUM = {
         },
         {
           "number": 6,
-          "title": "Questions & negatives; can\n**Level band:** A1  \n**Grammar focus:** do/does questions; can for ability  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Questions & negatives; can",
           "levelBand": "A1",
           "grammarFocus": "do/does questions; can for ability",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -1191,9 +1203,11 @@ const CURRICULUM = {
         },
         {
           "number": 7,
-          "title": "There is/are; places in town\n**Level band:** A1  \n**Grammar focus:** there is/are; prepositions of place  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "There is/are; places in town",
           "levelBand": "A1",
           "grammarFocus": "there is/are; prepositions of place",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -1387,9 +1401,11 @@ const CURRICULUM = {
         },
         {
           "number": 8,
-          "title": "Present continuous\n**Level band:** A1  \n**Grammar focus:** Present continuous vs simple contrast intro  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Present continuous",
           "levelBand": "A1",
           "grammarFocus": "Present continuous vs simple contrast intro",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -1583,9 +1599,11 @@ const CURRICULUM = {
         },
         {
           "number": 9,
-          "title": "Past of be; yesterday\n**Level band:** A1  \n**Grammar focus:** was/were; past time markers  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Past of be; yesterday",
           "levelBand": "A1",
           "grammarFocus": "was/were; past time markers",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -1779,9 +1797,11 @@ const CURRICULUM = {
         },
         {
           "number": 10,
-          "title": "Past simple regular; A1 gate\n**Level band:** A1  \n**Grammar focus:** Past simple regular -ed; pronunciation /t/ /d/ /ɪd/  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Past simple regular; A1 gate",
           "levelBand": "A1",
           "grammarFocus": "Past simple regular -ed; pronunciation /t/ /d/ /ɪd/",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -1985,9 +2005,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 11,
-          "title": "Past simple irregulars\n**Level band:** A2  \n**Grammar focus:** Common irregular past forms  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Past simple irregulars",
           "levelBand": "A2",
           "grammarFocus": "Common irregular past forms",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -2191,9 +2213,11 @@ const CURRICULUM = {
         },
         {
           "number": 12,
-          "title": "Comparatives & superlatives\n**Level band:** A2  \n**Grammar focus:** comparative/superlative adjectives  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Comparatives & superlatives",
           "levelBand": "A2",
           "grammarFocus": "comparative/superlative adjectives",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -2397,9 +2421,11 @@ const CURRICULUM = {
         },
         {
           "number": 13,
-          "title": "Countable/uncountable; quantifiers\n**Level band:** A2  \n**Grammar focus:** some/any/much/many/a lot of  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Countable/uncountable; quantifiers",
           "levelBand": "A2",
           "grammarFocus": "some/any/much/many/a lot of",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -2603,9 +2629,11 @@ const CURRICULUM = {
         },
         {
           "number": 14,
-          "title": "Future going to\n**Level band:** A2  \n**Grammar focus:** be going to for plans & predictions  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Future going to",
           "levelBand": "A2",
           "grammarFocus": "be going to for plans & predictions",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -2809,9 +2837,11 @@ const CURRICULUM = {
         },
         {
           "number": 15,
-          "title": "will vs going to\n**Level band:** A2  \n**Grammar focus:** will for decisions/promises/offers  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "will vs going to",
           "levelBand": "A2",
           "grammarFocus": "will for decisions/promises/offers",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -3015,9 +3045,11 @@ const CURRICULUM = {
         },
         {
           "number": 16,
-          "title": "Present perfect intro\n**Level band:** A2  \n**Grammar focus:** have/has + past participle (experience)  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Present perfect intro",
           "levelBand": "A2",
           "grammarFocus": "have/has + past participle (experience)",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -3221,9 +3253,11 @@ const CURRICULUM = {
         },
         {
           "number": 17,
-          "title": "Present perfect vs past simple\n**Level band:** A2  \n**Grammar focus:** finished time vs experience  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Present perfect vs past simple",
           "levelBand": "A2",
           "grammarFocus": "finished time vs experience",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -3427,9 +3461,11 @@ const CURRICULUM = {
         },
         {
           "number": 18,
-          "title": "Modals: should, must, have to\n**Level band:** A2  \n**Grammar focus:** advice & obligation  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Modals: should, must, have to",
           "levelBand": "A2",
           "grammarFocus": "advice & obligation",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -3633,9 +3669,11 @@ const CURRICULUM = {
         },
         {
           "number": 19,
-          "title": "First conditional; when/if\n**Level band:** A2  \n**Grammar focus:** if + present, will…  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "First conditional; when/if",
           "levelBand": "A2",
           "grammarFocus": "if + present, will…",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -3839,9 +3877,11 @@ const CURRICULUM = {
         },
         {
           "number": 20,
-          "title": "Relative clauses who/which/that\n**Level band:** A2  \n**Grammar focus:** defining relative clauses  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Relative clauses who/which/that",
           "levelBand": "A2",
           "grammarFocus": "defining relative clauses",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -4045,9 +4085,11 @@ const CURRICULUM = {
         },
         {
           "number": 21,
-          "title": "Reported speech basics; articles\n**Level band:** A2  \n**Grammar focus:** say/tell + that; a/the review  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reported speech basics; articles",
           "levelBand": "A2",
           "grammarFocus": "say/tell + that; a/the review",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -4251,9 +4293,11 @@ const CURRICULUM = {
         },
         {
           "number": 22,
-          "title": "A2 consolidation & gate\n**Level band:** A2  \n**Grammar focus:** mixed A2 structures  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "A2 consolidation & gate",
           "levelBand": "A2",
           "grammarFocus": "mixed A2 structures",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -4467,9 +4511,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 23,
-          "title": "Narrative pasts: past continuous\n**Level band:** B1  \n**Grammar focus:** past continuous + when/while  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Narrative pasts: past continuous",
           "levelBand": "B1",
           "grammarFocus": "past continuous + when/while",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -4679,9 +4725,11 @@ const CURRICULUM = {
         },
         {
           "number": 24,
-          "title": "Used to; would for past habits\n**Level band:** B1  \n**Grammar focus:** used to + V; contrast with past simple  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Used to; would for past habits",
           "levelBand": "B1",
           "grammarFocus": "used to + V; contrast with past simple",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -4891,9 +4939,11 @@ const CURRICULUM = {
         },
         {
           "number": 25,
-          "title": "Present perfect continuous\n**Level band:** B1  \n**Grammar focus:** have been + -ing; for/since  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Present perfect continuous",
           "levelBand": "B1",
           "grammarFocus": "have been + -ing; for/since",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -5103,9 +5153,11 @@ const CURRICULUM = {
         },
         {
           "number": 26,
-          "title": "Future forms review + present for future\n**Level band:** B1  \n**Grammar focus:** present continuous for arrangements; timetables  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Future forms review + present for future",
           "levelBand": "B1",
           "grammarFocus": "present continuous for arrangements; timetables",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -5315,9 +5367,11 @@ const CURRICULUM = {
         },
         {
           "number": 27,
-          "title": "Second conditional\n**Level band:** B1  \n**Grammar focus:** if + past, would…  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Second conditional",
           "levelBand": "B1",
           "grammarFocus": "if + past, would…",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -5527,9 +5581,11 @@ const CURRICULUM = {
         },
         {
           "number": 28,
-          "title": "Passives present & past\n**Level band:** B1  \n**Grammar focus:** be + past participle  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Passives present & past",
           "levelBand": "B1",
           "grammarFocus": "be + past participle",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -5739,9 +5795,11 @@ const CURRICULUM = {
         },
         {
           "number": 29,
-          "title": "Modals of deduction\n**Level band:** B1  \n**Grammar focus:** must/might/can't + be  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Modals of deduction",
           "levelBand": "B1",
           "grammarFocus": "must/might/can't + be",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -5951,9 +6009,11 @@ const CURRICULUM = {
         },
         {
           "number": 30,
-          "title": "Reported questions & commands\n**Level band:** B1  \n**Grammar focus:** ask if/wh-; tell someone to  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reported questions & commands",
           "levelBand": "B1",
           "grammarFocus": "ask if/wh-; tell someone to",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -6163,9 +6223,11 @@ const CURRICULUM = {
         },
         {
           "number": 31,
-          "title": "Adjective / adverb advanced; so/such\n**Level band:** B1  \n**Grammar focus:** so/such; too/enough  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Adjective / adverb advanced; so/such",
           "levelBand": "B1",
           "grammarFocus": "so/such; too/enough",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -6369,9 +6431,11 @@ const CURRICULUM = {
         },
         {
           "number": 32,
-          "title": "Gerunds & infinitives\n**Level band:** B1  \n**Grammar focus:** verb + -ing / to-infinitive patterns  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Gerunds & infinitives",
           "levelBand": "B1",
           "grammarFocus": "verb + -ing / to-infinitive patterns",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -6575,9 +6639,11 @@ const CURRICULUM = {
         },
         {
           "number": 33,
-          "title": "Connectors for cohesion\n**Level band:** B1  \n**Grammar focus:** although, despite, because of, so that  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Connectors for cohesion",
           "levelBand": "B1",
           "grammarFocus": "although, despite, because of, so that",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -6781,9 +6847,11 @@ const CURRICULUM = {
         },
         {
           "number": 34,
-          "title": "Defining vs non-defining relatives\n**Level band:** B1  \n**Grammar focus:** comma relatives; whose/where  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Defining vs non-defining relatives",
           "levelBand": "B1",
           "grammarFocus": "comma relatives; whose/where",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -6987,9 +7055,11 @@ const CURRICULUM = {
         },
         {
           "number": 35,
-          "title": "Indirect questions; polite requests\n**Level band:** B1  \n**Grammar focus:** Could you tell me…?; soft language  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Indirect questions; polite requests",
           "levelBand": "B1",
           "grammarFocus": "Could you tell me…?; soft language",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -7193,9 +7263,11 @@ const CURRICULUM = {
         },
         {
           "number": 36,
-          "title": "Academic reading skills B1\n**Level band:** B1  \n**Grammar focus:** skimming, scanning, inference light  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Academic reading skills B1",
           "levelBand": "B1",
           "grammarFocus": "skimming, scanning, inference light",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -7399,9 +7471,11 @@ const CURRICULUM = {
         },
         {
           "number": 37,
-          "title": "Listening skills: note-taking\n**Level band:** B1  \n**Grammar focus:** gist, detail, attitude  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening skills: note-taking",
           "levelBand": "B1",
           "grammarFocus": "gist, detail, attitude",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -7605,9 +7679,11 @@ const CURRICULUM = {
         },
         {
           "number": 38,
-          "title": "Writing: paragraph to short essay\n**Level band:** B1  \n**Grammar focus:** topic sentence, support, conclusion  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing: paragraph to short essay",
           "levelBand": "B1",
           "grammarFocus": "topic sentence, support, conclusion",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -7811,9 +7887,11 @@ const CURRICULUM = {
         },
         {
           "number": 39,
-          "title": "Speaking fluency & discourse markers\n**Level band:** B1  \n**Grammar focus:** well, actually, on the other hand  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Speaking fluency & discourse markers",
           "levelBand": "B1",
           "grammarFocus": "well, actually, on the other hand",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -8017,9 +8095,11 @@ const CURRICULUM = {
         },
         {
           "number": 40,
-          "title": "B1 consolidation & gate\n**Level band:** B1  \n**Grammar focus:** mixed B1 accuracy under time  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "B1 consolidation & gate",
           "levelBand": "B1",
           "grammarFocus": "mixed B1 accuracy under time",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -8233,9 +8313,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 41,
-          "title": "Narrative tenses mastery\n**Level band:** B2  \n**Grammar focus:** past simple/continuous/perfect  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Narrative tenses mastery",
           "levelBand": "B2",
           "grammarFocus": "past simple/continuous/perfect",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -8449,9 +8531,11 @@ const CURRICULUM = {
         },
         {
           "number": 42,
-          "title": "Future perfect & continuous\n**Level band:** B2  \n**Grammar focus:** will have + V3; will be + -ing  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Future perfect & continuous",
           "levelBand": "B2",
           "grammarFocus": "will have + V3; will be + -ing",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -8665,9 +8749,11 @@ const CURRICULUM = {
         },
         {
           "number": 43,
-          "title": "Third conditional & mixed\n**Level band:** B2  \n**Grammar focus:** if + past perfect, would have…  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Third conditional & mixed",
           "levelBand": "B2",
           "grammarFocus": "if + past perfect, would have…",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -8881,9 +8967,11 @@ const CURRICULUM = {
         },
         {
           "number": 44,
-          "title": "Advanced passives & causatives\n**Level band:** B2  \n**Grammar focus:** have/get something done; reporting passives  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Advanced passives & causatives",
           "levelBand": "B2",
           "grammarFocus": "have/get something done; reporting passives",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -9097,9 +9185,11 @@ const CURRICULUM = {
         },
         {
           "number": 45,
-          "title": "Modals perfect\n**Level band:** B2  \n**Grammar focus:** must/might/should have + V3  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Modals perfect",
           "levelBand": "B2",
           "grammarFocus": "must/might/should have + V3",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -9313,9 +9403,11 @@ const CURRICULUM = {
         },
         {
           "number": 46,
-          "title": "Noun phrases & nominalization\n**Level band:** B2  \n**Grammar focus:** verb→noun academic style  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Noun phrases & nominalization",
           "levelBand": "B2",
           "grammarFocus": "verb→noun academic style",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -9529,9 +9621,11 @@ const CURRICULUM = {
         },
         {
           "number": 47,
-          "title": "Cleft sentences & emphasis\n**Level band:** B2  \n**Grammar focus:** It is… that; What… is  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Cleft sentences & emphasis",
           "levelBand": "B2",
           "grammarFocus": "It is… that; What… is",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -9745,9 +9839,11 @@ const CURRICULUM = {
         },
         {
           "number": 48,
-          "title": "Participle clauses\n**Level band:** B2  \n**Grammar focus:** Having done…; -ing clauses  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Participle clauses",
           "levelBand": "B2",
           "grammarFocus": "Having done…; -ing clauses",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -9961,9 +10057,11 @@ const CURRICULUM = {
         },
         {
           "number": 49,
-          "title": "Inversion & formal negatives\n**Level band:** B2  \n**Grammar focus:** Not only… but also; Never have I…  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Inversion & formal negatives",
           "levelBand": "B2",
           "grammarFocus": "Not only… but also; Never have I…",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -10177,9 +10275,11 @@ const CURRICULUM = {
         },
         {
           "number": 50,
-          "title": "Hedging & stance\n**Level band:** B2  \n**Grammar focus:** seem, appear, tend to, arguably  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Hedging & stance",
           "levelBand": "B2",
           "grammarFocus": "seem, appear, tend to, arguably",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -10393,9 +10493,11 @@ const CURRICULUM = {
         },
         {
           "number": 51,
-          "title": "Lexical precision: collocations\n**Level band:** B2  \n**Grammar focus:** make/do/take/have; strong collocations  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Lexical precision: collocations",
           "levelBand": "B2",
           "grammarFocus": "make/do/take/have; strong collocations",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -10609,9 +10711,11 @@ const CURRICULUM = {
         },
         {
           "number": 52,
-          "title": "Listening: lectures & inference\n**Level band:** B2  \n**Grammar focus:** organization, attitude, function  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening: lectures & inference",
           "levelBand": "B2",
           "grammarFocus": "organization, attitude, function",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -10825,9 +10929,11 @@ const CURRICULUM = {
         },
         {
           "number": 53,
-          "title": "Reading: long texts & vocabulary-in-context\n**Level band:** B2  \n**Grammar focus:** main idea, detail, purpose  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reading: long texts & vocabulary-in-context",
           "levelBand": "B2",
           "grammarFocus": "main idea, detail, purpose",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -11041,9 +11147,11 @@ const CURRICULUM = {
         },
         {
           "number": 54,
-          "title": "Writing: email & discussion posts\n**Level band:** B2  \n**Grammar focus:** register, claim+reason+example  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing: email & discussion posts",
           "levelBand": "B2",
           "grammarFocus": "register, claim+reason+example",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -11257,9 +11365,11 @@ const CURRICULUM = {
         },
         {
           "number": 55,
-          "title": "Speaking: extended answers & clarity\n**Level band:** B2  \n**Grammar focus:** organize, exemplify, conclude  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Speaking: extended answers & clarity",
           "levelBand": "B2",
           "grammarFocus": "organize, exemplify, conclude",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -11473,9 +11583,11 @@ const CURRICULUM = {
         },
         {
           "number": 56,
-          "title": "Light TOEFL familiarization (no full test)\n**Level band:** B2  \n**Grammar focus:** overview of 2026 iBT sections  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Light TOEFL familiarization (no full test)",
           "levelBand": "B2",
           "grammarFocus": "overview of 2026 iBT sections",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -11689,9 +11801,11 @@ const CURRICULUM = {
         },
         {
           "number": 57,
-          "title": "B2 accuracy under pressure\n**Level band:** B2  \n**Grammar focus:** mixed grammar speed drills  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "B2 accuracy under pressure",
           "levelBand": "B2",
           "grammarFocus": "mixed grammar speed drills",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -11905,9 +12019,11 @@ const CURRICULUM = {
         },
         {
           "number": 58,
-          "title": "B2 gate & C1 launch\n**Level band:** B2  \n**Grammar focus:** B2 can-do evidence  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "B2 gate & C1 launch",
           "levelBand": "B2",
           "grammarFocus": "B2 can-do evidence",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -12131,9 +12247,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 59,
-          "title": "Advanced clause combining\n**Level band:** C1  \n**Grammar focus:** subordination density; absolute clauses intro  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Advanced clause combining",
           "levelBand": "C1",
           "grammarFocus": "subordination density; absolute clauses intro",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -12347,9 +12465,11 @@ const CURRICULUM = {
         },
         {
           "number": 60,
-          "title": "AWL Sublist 1–2 deep dive\n**Level band:** C1  \n**Grammar focus:** AWL productive use  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "AWL Sublist 1–2 deep dive",
           "levelBand": "C1",
           "grammarFocus": "AWL productive use",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -12563,9 +12683,11 @@ const CURRICULUM = {
         },
         {
           "number": 61,
-          "title": "AWL Sublist 3–4\n**Level band:** C1  \n**Grammar focus:** register and paraphrase  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "AWL Sublist 3–4",
           "levelBand": "C1",
           "grammarFocus": "register and paraphrase",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -12779,9 +12901,11 @@ const CURRICULUM = {
         },
         {
           "number": 62,
-          "title": "Critical reading: argument structure\n**Level band:** C1  \n**Grammar focus:** claims, warrants, evidence  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Critical reading: argument structure",
           "levelBand": "C1",
           "grammarFocus": "claims, warrants, evidence",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -12995,9 +13119,11 @@ const CURRICULUM = {
         },
         {
           "number": 63,
-          "title": "Lecture listening at C1\n**Level band:** C1  \n**Grammar focus:** multi-point organization; stance  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Lecture listening at C1",
           "levelBand": "C1",
           "grammarFocus": "multi-point organization; stance",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -13211,9 +13337,11 @@ const CURRICULUM = {
         },
         {
           "number": 64,
-          "title": "Writing: academic discussion mastery\n**Level band:** C1  \n**Grammar focus:** agree/disagree with nuance  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing: academic discussion mastery",
           "levelBand": "C1",
           "grammarFocus": "agree/disagree with nuance",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -13427,9 +13555,11 @@ const CURRICULUM = {
         },
         {
           "number": 65,
-          "title": "Email writing advanced\n**Level band:** C1  \n**Grammar focus:** requests, complaints, proposals  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Email writing advanced",
           "levelBand": "C1",
           "grammarFocus": "requests, complaints, proposals",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -13643,9 +13773,11 @@ const CURRICULUM = {
         },
         {
           "number": 66,
-          "title": "Speaking: interview expansion\n**Level band:** C1  \n**Grammar focus:** personal → general → example  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Speaking: interview expansion",
           "levelBand": "C1",
           "grammarFocus": "personal → general → example",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -13859,9 +13991,11 @@ const CURRICULUM = {
         },
         {
           "number": 67,
-          "title": "Listen and Repeat foundation\n**Level band:** C1  \n**Grammar focus:** segmentals & stress for TOEFL L&R  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listen and Repeat foundation",
           "levelBand": "C1",
           "grammarFocus": "segmentals & stress for TOEFL L&R",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -14075,9 +14209,11 @@ const CURRICULUM = {
         },
         {
           "number": 68,
-          "title": "Prosody: rhythm, linking, intonation\n**Level band:** C1  \n**Grammar focus:** thought groups; rising/falling  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Prosody: rhythm, linking, intonation",
           "levelBand": "C1",
           "grammarFocus": "thought groups; rising/falling",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -14291,9 +14427,11 @@ const CURRICULUM = {
         },
         {
           "number": 69,
-          "title": "Build a Sentence skills\n**Level band:** C1  \n**Grammar focus:** syntax assembly under constraints  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Build a Sentence skills",
           "levelBand": "C1",
           "grammarFocus": "syntax assembly under constraints",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -14507,9 +14645,11 @@ const CURRICULUM = {
         },
         {
           "number": 70,
-          "title": "Reading: Complete the Words & Daily Life\n**Level band:** C1  \n**Grammar focus:** orthographic & contextual recovery  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reading: Complete the Words & Daily Life",
           "levelBand": "C1",
           "grammarFocus": "orthographic & contextual recovery",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -14723,9 +14863,11 @@ const CURRICULUM = {
         },
         {
           "number": 71,
-          "title": "TOEFL Reading Academic Passage (intro)\n**Level band:** C1  \n**Grammar focus:** 2026 Reading academic items  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "TOEFL Reading Academic Passage (intro)",
           "levelBand": "C1",
           "grammarFocus": "2026 Reading academic items",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -14939,9 +15081,11 @@ const CURRICULUM = {
         },
         {
           "number": 72,
-          "title": "TOEFL Listening: Choose a Response & Conversation\n**Level band:** C1  \n**Grammar focus:** pragmatics & detail  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "TOEFL Listening: Choose a Response & Conversation",
           "levelBand": "C1",
           "grammarFocus": "pragmatics & detail",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -15155,9 +15299,11 @@ const CURRICULUM = {
         },
         {
           "number": 73,
-          "title": "TOEFL Listening: Announcement & Academic Talk\n**Level band:** C1  \n**Grammar focus:** gist + connecting content  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "TOEFL Listening: Announcement & Academic Talk",
           "levelBand": "C1",
           "grammarFocus": "gist + connecting content",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -15371,9 +15517,11 @@ const CURRICULUM = {
         },
         {
           "number": 74,
-          "title": "TOEFL Writing full triad practice\n**Level band:** C1  \n**Grammar focus:** Build a Sentence + Email + Discussion  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "TOEFL Writing full triad practice",
           "levelBand": "C1",
           "grammarFocus": "Build a Sentence + Email + Discussion",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -15587,9 +15735,11 @@ const CURRICULUM = {
         },
         {
           "number": 75,
-          "title": "TOEFL Speaking: L&R + Interview blocks\n**Level band:** C1  \n**Grammar focus:** intelligibility + content  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "TOEFL Speaking: L&R + Interview blocks",
           "levelBand": "C1",
           "grammarFocus": "intelligibility + content",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -15803,9 +15953,11 @@ const CURRICULUM = {
         },
         {
           "number": 76,
-          "title": "Integrated skills days (C1)\n**Level band:** C1  \n**Grammar focus:** rotate R/L/W/S without full test  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Integrated skills days (C1)",
           "levelBand": "C1",
           "grammarFocus": "rotate R/L/W/S without full test",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -16019,9 +16171,11 @@ const CURRICULUM = {
         },
         {
           "number": 77,
-          "title": "Stylistics & paraphrase ceiling\n**Level band:** C1  \n**Grammar focus:** multiple paraphrase layers  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Stylistics & paraphrase ceiling",
           "levelBand": "C1",
           "grammarFocus": "multiple paraphrase layers",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -16235,9 +16389,11 @@ const CURRICULUM = {
         },
         {
           "number": 78,
-          "title": "C1 gate & C2/TOEFL launch\n**Level band:** C1  \n**Grammar focus:** C1 evidence + band realism  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "C1 gate & C2/TOEFL launch",
           "levelBand": "C1",
           "grammarFocus": "C1 evidence + band realism",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -16461,9 +16617,11 @@ const CURRICULUM = {
       "weeks": [
         {
           "number": 79,
-          "title": "Peak phase launch; scoring reality\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** 1–6 section scores; stretch to 6  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Peak phase launch; scoring reality",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "1–6 section scores; stretch to 6",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -16683,9 +16841,11 @@ const CURRICULUM = {
         },
         {
           "number": 80,
-          "title": "Reading peak: Complete the Words mastery\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** speed orthography + morphology  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reading peak: Complete the Words mastery",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "speed orthography + morphology",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -16905,9 +17065,11 @@ const CURRICULUM = {
         },
         {
           "number": 81,
-          "title": "Reading peak: Daily Life texts\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** emails, notices, messages  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reading peak: Daily Life texts",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "emails, notices, messages",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -17127,9 +17289,11 @@ const CURRICULUM = {
         },
         {
           "number": 82,
-          "title": "Reading peak: Academic Passage\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** full strategy stack  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Reading peak: Academic Passage",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "full strategy stack",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -17349,9 +17513,11 @@ const CURRICULUM = {
         },
         {
           "number": 83,
-          "title": "Listening peak: Choose a Response\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** pragmatics speed  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening peak: Choose a Response",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "pragmatics speed",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -17571,9 +17737,11 @@ const CURRICULUM = {
         },
         {
           "number": 84,
-          "title": "Listening peak: Conversation\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** campus/workplace detail  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening peak: Conversation",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "campus/workplace detail",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -17793,9 +17961,11 @@ const CURRICULUM = {
         },
         {
           "number": 85,
-          "title": "Listening peak: Announcement\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** public info extraction  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening peak: Announcement",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "public info extraction",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -18015,9 +18185,11 @@ const CURRICULUM = {
         },
         {
           "number": 86,
-          "title": "Listening peak: Academic Talk\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** lecture compression  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Listening peak: Academic Talk",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "lecture compression",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -18237,9 +18409,11 @@ const CURRICULUM = {
         },
         {
           "number": 87,
-          "title": "Writing peak: Build a Sentence\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** zero-tolerance accuracy  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing peak: Build a Sentence",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "zero-tolerance accuracy",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -18459,9 +18633,11 @@ const CURRICULUM = {
         },
         {
           "number": 88,
-          "title": "Writing peak: Email\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** task fulfillment + tone  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing peak: Email",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "task fulfillment + tone",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -18681,9 +18857,11 @@ const CURRICULUM = {
         },
         {
           "number": 89,
-          "title": "Writing peak: Academic Discussion\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** positioning under word economy  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Writing peak: Academic Discussion",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "positioning under word economy",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -18903,9 +19081,11 @@ const CURRICULUM = {
         },
         {
           "number": 90,
-          "title": "Speaking peak: Listen and Repeat\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** near-native intelligibility target  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Speaking peak: Listen and Repeat",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "near-native intelligibility target",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -19125,9 +19305,11 @@ const CURRICULUM = {
         },
         {
           "number": 91,
-          "title": "Speaking peak: Interview\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** content density + clarity  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Speaking peak: Interview",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "content density + clarity",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -19347,9 +19529,11 @@ const CURRICULUM = {
         },
         {
           "number": 92,
-          "title": "Full section simulations (Reading)\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** ETS Practice Test style pacing  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Full section simulations (Reading)",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "ETS Practice Test style pacing",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -19569,9 +19753,11 @@ const CURRICULUM = {
         },
         {
           "number": 93,
-          "title": "Full section simulations (Listening)\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** endurance + notes  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Full section simulations (Listening)",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "endurance + notes",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -19791,9 +19977,11 @@ const CURRICULUM = {
         },
         {
           "number": 94,
-          "title": "Full section simulations (Writing)\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** triad under official timing  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Full section simulations (Writing)",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "triad under official timing",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -20013,9 +20201,11 @@ const CURRICULUM = {
         },
         {
           "number": 95,
-          "title": "Full section simulations (Speaking)\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** L&R + Interview under timing  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Full section simulations (Speaking)",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "L&R + Interview under timing",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -20235,9 +20425,11 @@ const CURRICULUM = {
         },
         {
           "number": 96,
-          "title": "Mixed full-test simulation 1\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** Practice Test 1 style day  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Mixed full-test simulation 1",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "Practice Test 1 style day",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -20457,9 +20649,11 @@ const CURRICULUM = {
         },
         {
           "number": 97,
-          "title": "Remediation sprint from Sim 1\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** close top 3 leaks  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Remediation sprint from Sim 1",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "close top 3 leaks",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -20679,9 +20873,11 @@ const CURRICULUM = {
         },
         {
           "number": 98,
-          "title": "Mixed full-test simulation 2\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** Practice Test 2 style day  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Mixed full-test simulation 2",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "Practice Test 2 style day",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -20901,9 +21097,11 @@ const CURRICULUM = {
         },
         {
           "number": 99,
-          "title": "Polish & stability\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** eliminate careless errors  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Polish & stability",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "eliminate careless errors",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,
@@ -21123,9 +21321,11 @@ const CURRICULUM = {
         },
         {
           "number": 100,
-          "title": "Peak taper & exam readiness\n**Level band:** C2 / TOEFL peak  \n**Grammar focus:** 5.5 secure; stretch habits for 6  \n**Weekly pronunciation:** integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.  \n**Study load:** ~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "title": "Peak taper & exam readiness",
           "levelBand": "C2 / TOEFL peak",
           "grammarFocus": "5.5 secure; stretch habits for 6",
+          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
+          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
           "days": [
             {
               "number": 1,

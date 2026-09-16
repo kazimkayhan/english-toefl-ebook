@@ -215,6 +215,10 @@ body {
     padding: 3rem 2rem;
 }
 
+.content-wrapper {
+    line-height: 1.7;
+}
+
 .content-wrapper h1 {
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
@@ -223,16 +227,16 @@ body {
 }
 
 .content-wrapper h2 {
-    font-size: 1.75rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
     font-weight: 600;
 }
 
 .content-wrapper h3 {
-    font-size: 1.25rem;
-    margin-top: 1.5rem;
-    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 0;
     font-weight: 600;
 }
 
@@ -243,6 +247,11 @@ body {
 .content-wrapper ul, .content-wrapper ol {
     margin-left: 1.5rem;
     margin-bottom: 1rem;
+}
+
+.content-wrapper strong {
+    font-weight: 600;
+    color: var(--color-text);
 }
 
 /* Guide Sections */
@@ -381,15 +390,27 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-left: 3px solid transparent;
 }
 
 .stage-button:hover {
-    background: var(--color-border);
+    background: var(--color-surface);
 }
 
 .stage-button.active {
-    background: var(--color-primary);
-    color: white;
+    background: var(--color-surface);
+}
+
+.stage-button small {
+    font-weight: 400;
+    opacity: 0.7;
+    font-size: 0.8rem;
+}
+
+.expand-icon {
+    font-size: 1.2rem;
+    transition: transform 0.3s;
+    opacity: 0.5;
 }
 
 .weeks-list {
@@ -402,13 +423,16 @@ body {
     text-align: left;
     background: none;
     border: none;
-    padding: 0.5rem 0.75rem;
+    padding: 0.65rem 0.75rem;
     border-radius: 6px;
     cursor: pointer;
     color: var(--color-text-muted);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     transition: all 0.2s;
     margin-bottom: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
 }
 
 .week-button:hover {
@@ -417,9 +441,20 @@ body {
 }
 
 .week-button.active {
-    background: var(--color-border);
-    color: var(--color-primary);
+    background: var(--color-primary);
+    color: white;
     font-weight: 500;
+}
+
+.week-num {
+    font-weight: 600;
+    font-size: 0.8rem;
+    opacity: 0.9;
+}
+
+.week-title {
+    font-weight: 400;
+    line-height: 1.3;
 }
 
 .lesson-content {
@@ -428,92 +463,320 @@ body {
     background: var(--color-bg);
 }
 
+/* Week Header */
+.week-header {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border);
+}
+
+.breadcrumb {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.breadcrumb-sep {
+    opacity: 0.5;
+}
+
+.week-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+}
+
+.week-meta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.25rem;
+}
+
+.meta-chip {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+}
+
+.meta-chip strong {
+    color: var(--color-text-muted);
+    font-weight: 500;
+    margin-right: 0.35rem;
+}
+
+.meta-full {
+    grid-column: 1 / -1;
+}
+
 /* Lesson Display */
 .lesson-card {
     background: var(--color-surface);
     border: 1px solid var(--color-border);
     border-radius: 12px;
-    padding: 2rem;
-    margin-bottom: 1.5rem;
+    padding: 0;
+    margin-bottom: 2rem;
+    overflow: hidden;
 }
 
 .lesson-header {
-    border-bottom: 2px solid var(--color-border);
-    padding-bottom: 1rem;
-    margin-bottom: 1.5rem;
-}
-
-.lesson-meta {
+    background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-bg) 100%);
+    padding: 1.75rem;
+    border-bottom: 1px solid var(--color-border);
     display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    font-size: 0.85rem;
-    color: var(--color-text-muted);
-    margin-top: 0.5rem;
+    gap: 1.25rem;
+    align-items: flex-start;
 }
 
-.lesson-meta span {
-    background: var(--color-border);
-    padding: 0.25rem 0.75rem;
-    border-radius: 50px;
+.day-badge {
+    background: var(--color-primary);
+    color: white;
+    padding: 0.5rem 0.85rem;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.day-header-content {
+    flex: 1;
+}
+
+.day-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.01em;
+}
+
+.day-goal {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.5;
 }
 
 .lesson-section {
-    margin-bottom: 2rem;
+    padding: 1.75rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.lesson-section:last-of-type {
+    border-bottom: none;
 }
 
 .lesson-section h3 {
     font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-text);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.section-number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: var(--color-primary);
+    color: white;
+    border-radius: 50%;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.time-badge {
+    margin-left: auto;
+    background: var(--color-border);
+    padding: 0.25rem 0.75rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+}
+
+.section-content {
+    line-height: 1.7;
+}
+
+.section-content p {
+    margin-bottom: 1rem;
+}
+
+.section-content ul {
+    margin: 0.75rem 0 0.75rem 1.5rem;
+}
+
+.section-content li {
+    margin-bottom: 0.5rem;
+}
+
+.info-item {
+    margin-bottom: 1rem;
+}
+
+.vocab-section {
+    margin: 1.25rem 0;
+}
+
+.vocab-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+}
+
+.vocab-item {
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    padding: 0.35rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    color: var(--color-text);
+}
+
+.examples-section {
+    margin: 1.25rem 0;
+}
+
+.examples-list {
+    margin-top: 0.75rem;
+    list-style: none;
+    margin-left: 0;
+}
+
+.examples-list li {
+    padding-left: 1.5rem;
+    position: relative;
     margin-bottom: 0.75rem;
+}
+
+.examples-list li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
     color: var(--color-primary);
-}
-
-.lesson-section h4 {
-    font-size: 1rem;
-    margin-bottom: 0.5rem;
-    margin-top: 1rem;
-}
-
-.lesson-section ul {
-    margin-left: 1.5rem;
-}
-
-.lesson-section li {
-    margin-bottom: 0.5rem;
+    font-weight: bold;
 }
 
 .checkpoint-box {
-    background: linear-gradient(135deg, rgba(37, 99, 235, 0.1), rgba(139, 92, 246, 0.1));
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.08), rgba(139, 92, 246, 0.08));
     border: 2px solid var(--color-primary);
     border-radius: 12px;
-    padding: 1.5rem;
-    margin-top: 2rem;
+    padding: 1.75rem;
+    margin: 0;
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
 }
 
-.checkpoint-box h3 {
+.checkpoint-icon {
+    width: 40px;
+    height: 40px;
+    background: var(--color-primary);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.checkpoint-content {
+    flex: 1;
+}
+
+.checkpoint-content h3 {
     color: var(--color-primary);
-    margin-bottom: 0.75rem;
+    margin: 0 0 0.75rem 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.checkpoint-content p {
+    margin: 0;
+    line-height: 1.6;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
     .sidebar {
-        position: fixed;
-        left: -300px;
-        transition: left 0.3s;
-        z-index: 50;
-    }
-    
-    .sidebar.open {
-        left: 0;
+        display: none;
     }
     
     .page-header {
         padding: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    .search-bar {
+        order: 3;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 0.75rem;
     }
     
     .content-wrapper {
         padding: 2rem 1rem;
+    }
+    
+    .week-title {
+        font-size: 1.75rem;
+    }
+    
+    .week-meta-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .lesson-card {
+        border-radius: 8px;
+    }
+    
+    .lesson-header {
+        flex-direction: column;
+        padding: 1.25rem;
+        gap: 1rem;
+    }
+    
+    .day-title {
+        font-size: 1.25rem;
+    }
+    
+    .lesson-section {
+        padding: 1.25rem;
+    }
+    
+    .lesson-section h3 {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+    
+    .time-badge {
+        margin-left: 0;
+    }
+    
+    .vocab-grid {
+        gap: 0.4rem;
+    }
+    
+    .checkpoint-box {
+        flex-direction: column;
+        padding: 1.25rem;
+        gap: 1rem;
     }
     
     .cover-details {
@@ -522,5 +785,9 @@ body {
     
     .detail-number {
         font-size: 2rem;
+    }
+    
+    .stages-grid {
+        grid-template-columns: 1fr;
     }
 }
