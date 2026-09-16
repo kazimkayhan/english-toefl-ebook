@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English to TOEFL: A0→C2 Daily Lesson Cards</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="A complete 100-week daily curriculum from absolute beginner (A0) to C2/TOEFL iBT peak - 600 daily lesson cards">
+</head>
+<body>
+    <div id="app">
+        <!-- Cover Page -->
+        <div id="cover-page" class="page active">
+            <div class="cover-content">
+                <div class="cover-badge">📚 Complete English Learning Journey</div>
+                <h1 class="cover-title">English to TOEFL</h1>
+                <p class="cover-subtitle">A0 → C2 Daily Lesson Cards</p>
+                <div class="cover-details">
+                    <div class="detail-item">
+                        <span class="detail-number">100</span>
+                        <span class="detail-label">Weeks</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-number">600</span>
+                        <span class="detail-label">Daily Cards</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-number">6</span>
+                        <span class="detail-label">CEFR Levels</span>
+                    </div>
+                </div>
+                <button class="cta-button" onclick="showGuide()">Start Learning →</button>
+                <div class="cover-info">
+                    <p>Aligned to 2026 TOEFL iBT format</p>
+                    <p>~90-120 minutes per day • 6 days per week</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Guide Page -->
+        <div id="guide-page" class="page">
+            <div class="page-header">
+                <button class="back-button" onclick="showCover()">← Back to Cover</button>
+                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">🌙</button>
+            </div>
+            <div class="content-wrapper">
+                <h1>How to Use This Course</h1>
+                
+                <div class="guide-section">
+                    <h2>🎯 Daily Rhythm (90–120 minutes)</h2>
+                    <table class="rhythm-table">
+                        <thead>
+                            <tr>
+                                <th>Block</th>
+                                <th>Time</th>
+                                <th>Purpose</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Warm-up</td>
+                                <td>10–15 min</td>
+                                <td>Anki + activate + pronunciation</td>
+                            </tr>
+                            <tr>
+                                <td>Learn</td>
+                                <td>25–35 min</td>
+                                <td>Grammar point + concrete vocab + examples</td>
+                            </tr>
+                            <tr>
+                                <td>Practice</td>
+                                <td>20–25 min</td>
+                                <td>Controlled tasks</td>
+                            </tr>
+                            <tr>
+                                <td>Produce</td>
+                                <td>20–25 min</td>
+                                <td>Speak (voice memo) + Write (length target)</td>
+                            </tr>
+                            <tr>
+                                <td>Review</td>
+                                <td>10–15 min</td>
+                                <td>Anki cards for today + hardest sentence</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="guide-section">
+                    <h2>📊 Progression Stages</h2>
+                    <div class="stages-grid">
+                        <div class="stage-card stage-a0">
+                            <h3>A0→A1</h3>
+                            <p class="stage-weeks">Weeks 1–10</p>
+                            <p>Absolute beginner to elementary</p>
+                        </div>
+                        <div class="stage-card stage-a2">
+                            <h3>A2</h3>
+                            <p class="stage-weeks">Weeks 11–22</p>
+                            <p>Pre-intermediate</p>
+                        </div>
+                        <div class="stage-card stage-b1">
+                            <h3>B1</h3>
+                            <p class="stage-weeks">Weeks 23–40</p>
+                            <p>Intermediate</p>
+                        </div>
+                        <div class="stage-card stage-b2">
+                            <h3>B2</h3>
+                            <p class="stage-weeks">Weeks 41–58</p>
+                            <p>Upper-intermediate</p>
+                        </div>
+                        <div class="stage-card stage-c1">
+                            <h3>C1</h3>
+                            <p class="stage-weeks">Weeks 59–78</p>
+                            <p>Advanced</p>
+                        </div>
+                        <div class="stage-card stage-c2">
+                            <h3>C2/TOEFL</h3>
+                            <p class="stage-weeks">Weeks 79–100</p>
+                            <p>Mastery + TOEFL Peak</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="guide-section">
+                    <h2>🚪 Important Gates</h2>
+                    <p>Pass gates at <strong>Weeks 10, 22, 40, 58, 78, and 100</strong> before accelerating. Collect evidence (recordings + writing) and assess honestly.</p>
+                </div>
+
+                <div class="guide-section">
+                    <h2>📈 2026 TOEFL iBT Scoring Note</h2>
+                    <div class="info-box">
+                        <p>The 2026 TOEFL iBT uses a <strong>1–6 band scale</strong> per section (not the legacy 0–120 total). Your peak target: secure <strong>band 5.5</strong> with stable timing, then stretch toward <strong>band 6</strong>.</p>
+                    </div>
+                </div>
+
+                <div class="guide-section">
+                    <h2>📚 Portfolio Requirements</h2>
+                    <ul class="checklist">
+                        <li>Voice memos for speaking practice</li>
+                        <li>Writing samples with corrections</li>
+                        <li>Error log tracking patterns</li>
+                        <li>Anki exports tagged by Week-Day</li>
+                    </ul>
+                </div>
+
+                <button class="cta-button" onclick="showLessons()">Browse Lessons →</button>
+            </div>
+        </div>
+
+        <!-- Lessons Browser -->
+        <div id="lessons-page" class="page">
+            <div class="page-header">
+                <button class="back-button" onclick="showGuide()">← Guide</button>
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Search weeks, days, topics..." onkeyup="filterLessons()">
+                </div>
+                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">🌙</button>
+            </div>
+            
+            <div class="lessons-layout">
+                <aside class="sidebar" id="sidebar">
+                    <div class="sidebar-header">
+                        <h3>Curriculum</h3>
+                    </div>
+                    <div class="stages-nav" id="stages-nav">
+                        <!-- Populated by JS -->
+                    </div>
+                </aside>
+
+                <main class="lesson-content" id="lesson-content">
+                    <div class="content-wrapper">
+                        <h1>Select a Stage</h1>
+                        <p>Choose a CEFR stage from the sidebar to browse weeks and daily lessons.</p>
+                    </div>
+                </main>
+            </div>
+        </div>
+
+        <!-- Checklist Page -->
+        <div id="checklist-page" class="page">
+            <div class="page-header">
+                <button class="back-button" onclick="showLessons()">← Lessons</button>
+                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">🌙</button>
+            </div>
+            <div class="content-wrapper" id="checklist-content">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
