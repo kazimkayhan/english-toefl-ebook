@@ -79,7 +79,7 @@ function renderStagesNav() {
         stage.weeks.forEach(week => {
             const weekBtn = document.createElement('button');
             weekBtn.className = 'week-button';
-            weekBtn.innerHTML = `<span class="week-num">Week ${week.number}</span><span class="week-title">${week.title}</span>`;
+            weekBtn.innerHTML = `<span class="week-num">Week ${week.number}</span><span class="week-subtitle">${week.title}</span>`;
             weekBtn.onclick = () => selectWeek(stage, week);
             weeksList.appendChild(weekBtn);
         });
