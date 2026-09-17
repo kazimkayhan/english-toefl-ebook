@@ -1,4 +1,4 @@
-// Generated curriculum data - Phase 1 (Weeks 1-10) hand-validated
+// Generated curriculum data - Phase 1 (A0/A1) + A2 hand-validated
 const CURRICULUM = {
   "title": "English to TOEFL: A0→C2 Daily Lesson Cards",
   "description": "A complete 100-week daily curriculum from absolute beginner to C2/TOEFL iBT peak",
@@ -1925,201 +1925,190 @@ const CURRICULUM = {
           "number": 11,
           "title": "Past simple irregulars",
           "levelBand": "A2",
-          "grammarFocus": "Common irregular past forms",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "Common irregular past; did questions; didn't negatives",
+          "pronunciation": "Irregular vowel changes; did/didn't stress",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "High-frequency irregulars",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'High-frequency irregulars'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"High-frequency irregulars\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Memorize and use top irregular past forms.",
+              "warmup": "Cover→recall 15 pairs.",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Affirmative: Subject + irregular past (same for all persons).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "went",
+                  "had",
+                  "did",
+                  "saw",
+                  "came",
+                  "took",
+                  "made",
+                  "got",
+                  "ate",
+                  "drank",
+                  "bought",
+                  "said",
+                  "told",
+                  "read",
+                  "wrote",
+                  "met",
+                  "left",
+                  "felt",
+                  "found",
+                  "gave"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I went home.",
+                  "She had lunch.",
+                  "They saw a film.",
+                  "He took a taxi.",
+                  "We bought bread."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about high-frequency irregulars. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about high-frequency irregulars. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Match base↔past ×20 **2.** Gap-fill story **3.** Cover-recall timed **4.** Spell read/read note **5.** Oral chain",
+              "produce": "**Speak 60–90s:** 10 past sentences with different irregulars **Write 70–90w:** yesterday using ≥12 irregulars",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D1.",
+              "checkpoint": "20 pairs ≥16 + 8 sentences = Pass"
             },
             {
               "number": 2,
               "title": "go/went see/saw etc.",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'go/went see/saw etc.'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"go/went see/saw etc.\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Automate the most common travel/daily irregulars.",
+              "warmup": "Mini story with go/see/take/get/come.",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Focus set: go/went, see/saw, take/took, get/got, come/came, make/made, give/gave, find/found.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "go",
+                  "went",
+                  "see",
+                  "saw",
+                  "take",
+                  "took",
+                  "get",
+                  "got",
+                  "come",
+                  "came",
+                  "make",
+                  "made",
+                  "give",
+                  "gave",
+                  "find",
+                  "found"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I went to the market and saw my friend.",
+                  "She took a bus and got home late.",
+                  "He came in and made tea."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about go/went see/saw etc.. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about go/went see/saw etc.. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Replace wrong regulars (goed→went) **2.** Picture story **3.** Dictation **4.** Pair retell **5.** Error hunt",
+              "produce": "**Speak/Write:** short trip paragraph ≥8 target verbs",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D2.",
+              "checkpoint": "Zero goed/taked/etc. in produce = Pass"
             },
             {
               "number": 3,
               "title": "Past questions with did",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'Past questions with did'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Past questions with did\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Ask past Yes/No and WH with did + base.",
+              "warmup": "Shadow Did you go? Where did you go?",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Did + subject + base verb? Short answers Yes, I did. / No, I didn't. WH + did + subject + base.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "Did you",
+                  "Did she",
+                  "Where did",
+                  "What did",
+                  "When did",
+                  "Why did",
+                  "Yes, I did",
+                  "No, I didn't"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Did you go out? — Yes, I did.",
+                  "Where did she go? — She went to school.",
+                  "What did they buy? — They bought fruit."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about past questions with did. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about past questions with did. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Statement→Did Q **2.** Fix Did you went **3.** WH past Qs **4.** Interview ×8 **5.** Short answers only",
+              "produce": "**Speak:** interview both roles **Write:** 8 Q+A pairs",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D3.",
+              "checkpoint": "No past form after did = Pass"
             },
             {
               "number": 4,
               "title": "Negative didn't",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'Negative didn't'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Negative didn't\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Form past negatives with didn't + base.",
+              "warmup": "Flip affirmatives to didn't.",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Subject + didn't + base (all persons). No didn't went.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "didn't",
+                  "did not",
+                  "base verb",
+                  "negative past"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I didn't go out.",
+                  "She didn't see the message.",
+                  "They didn't buy anything."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about negative didn't. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about negative didn't. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Make negatives **2.** Fix didn't went **3.** True past negatives **4.** Affirm/neg pairs **5.** Rewrite paragraph",
+              "produce": "**Speak/Write:** 8 didn't sentences + 4 did questions",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D4.",
+              "checkpoint": "8 correct didn't + base = Pass"
             },
             {
               "number": 5,
               "title": "Recount a trip",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'Recount a trip'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Recount a trip\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Tell a past trip with irregulars + did Qs.",
+              "warmup": "Plan place/time/people/3 events.",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Narrative past + connectors; answer Did you…?",
                 "vocab": [
-                  "zero",
-                  "one",
-                  "two",
-                  "three",
-                  "four",
-                  "five",
-                  "six",
-                  "seven",
-                  "eight",
-                  "nine"
+                  "trip",
+                  "travel",
+                  "airport",
+                  "hotel",
+                  "ticket",
+                  "souvenir",
+                  "then",
+                  "after that",
+                  "finally"
                 ],
                 "examples": [
-                  "I am ten years old.",
-                  "My phone number is five-five-five.",
-                  "There are twelve months.",
-                  "I have two brothers.",
-                  "She is twenty-three."
+                  "Last year I went to Herat. I took a bus. I saw the old city. I didn't stay in a hotel."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ zero.\n4. They ___ not one.\n5. He ___ two.\n6. We ___ three and four.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) zero\n\n**Sentence transformation:** Make these sentences negative:\n1. I am zero. → I am not zero.\n2. She is one. → __________\n3. They are two. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is zero. → __________\n3. They are one. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about recount a trip. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: zero, one, two, three, four. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about recount a trip. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: zero, one, two, three, four, five. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Outline **2.** Draft with ≥10 irregulars **3.** Add didn't ×2 **4.** Partner Did you…? **5.** Edit",
+              "produce": "**Speak 90–120s / Write 100–120w:** trip story",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D5.",
+              "checkpoint": "≥10 irregulars + 2 didn't + clear timeline = Pass"
             },
             {
               "number": 6,
               "title": "Week 11 review",
-              "goal": "Learn and use 'Common irregular past forms' accurately while expanding vocabulary for 'Week 11 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 11 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure irregulars + did/didn't.",
+              "warmup": "Error clinic goed/Did you went.",
               "learn": {
-                "grammar": "Common irregular past forms",
+                "grammar": "Form map: V2 / did+V1 / didn't+V1.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "went",
+                  "saw",
+                  "took",
+                  "got",
+                  "Did you",
+                  "didn't"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "Did you go? — Yes, I did. I went yesterday. I didn't take a taxi."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 11 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 11 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week11-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Stations:** pair quiz · story · Q clinic · writing",
+              "produce": "**Week 11 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W11D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -2127,201 +2116,173 @@ const CURRICULUM = {
           "number": 12,
           "title": "Comparatives & superlatives",
           "levelBand": "A2",
-          "grammarFocus": "comparative/superlative adjectives",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "comparative -er/more; superlative -est/most; irregular better/best",
+          "pronunciation": "than linking; stress on -ER/-EST",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "Comparative forms",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'Comparative forms'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Comparative forms\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Compare two things with -er/more + than.",
+              "warmup": "big→bigger, expensive→more expensive.",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "short adj + -er + than; long adj more + adj + than; spelling big→bigger, happy→happier.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "older",
+                  "younger",
+                  "bigger",
+                  "smaller",
+                  "taller",
+                  "shorter",
+                  "happier",
+                  "easier",
+                  "more expensive",
+                  "more interesting",
+                  "than"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Kabul is bigger than my town.",
+                  "This book is more interesting than that one.",
+                  "She is taller than her brother."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about comparative forms. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about comparative forms. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form comparatives **2.** than sentences **3.** Spelling doubles **4.** Fix more bigger **5.** Oral pairs",
+              "produce": "**Speak/Write:** 10 comparisons",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D1.",
+              "checkpoint": "No more bigger; than present = Pass"
             },
             {
               "number": 2,
               "title": "Superlatives",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'Superlatives'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Superlatives\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "the -est / the most for groups.",
+              "warmup": "3 cities → the biggest.",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "the + -est / the most + adj. in + group.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "the oldest",
+                  "the biggest",
+                  "the tallest",
+                  "the best",
+                  "the worst",
+                  "the most expensive",
+                  "the most popular",
+                  "in the class",
+                  "in the world"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "He is the tallest in the family.",
+                  "This is the most expensive phone in the shop."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about superlatives. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about superlatives. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form superlatives **2.** the + … **3.** Group prompts **4.** Fix most tallest **5.** Quiz",
+              "produce": "**Speak/Write:** 8 superlatives about people/places",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D2.",
+              "checkpoint": "Article the + form correct = Pass"
             },
             {
               "number": 3,
               "title": "Irregular better/best",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'Irregular better/best'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Irregular better/best\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "good/bad irregulars; far (intro).",
+              "warmup": "good→better→best chant.",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "good-better-best; bad-worse-worst; far-farther/further (recognition).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "good",
+                  "better",
+                  "best",
+                  "bad",
+                  "worse",
+                  "worst",
+                  "far",
+                  "farther",
+                  "further"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "My English is better than last year.",
+                  "This is the best day.",
+                  "The weather is worse today."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about irregular better/best. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about irregular better/best. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Tables **2.** Gap-fill **3.** Compare food/films **4.** Fix gooder **5.** Dialogue",
+              "produce": "**Speak/Write:** 8 lines using better/best/worse/worst",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D3.",
+              "checkpoint": "Zero gooder/baddest = Pass"
             },
             {
               "number": 4,
               "title": "City comparisons",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'City comparisons'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"City comparisons\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Compare cities on size, cost, weather, interest.",
+              "warmup": "Pick 2–3 cities you know.",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "Combine comparative + superlative in a short text.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "crowded",
+                  "quiet",
+                  "modern",
+                  "historic",
+                  "cheap",
+                  "safe",
+                  "dangerous",
+                  "polluted",
+                  "clean"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "City A is more modern than City B, but B is quieter. A is the most crowded."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about city comparisons. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about city comparisons. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Criteria table **2.** 6 comparatives **3.** 3 superlatives **4.** Peer Qs **5.** Edit articles",
+              "produce": "**Speak 90s / Write 100w:** city compare",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D4.",
+              "checkpoint": "Mix of both forms = Pass"
             },
             {
               "number": 5,
               "title": "Opinion dialogue",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'Opinion dialogue'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Opinion dialogue\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Agree/disagree using comparisons.",
+              "warmup": "I think… / I don't think…",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "Opinion + comparative reasons.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "I think",
+                  "I agree",
+                  "I don't agree",
+                  "because",
+                  "in my opinion",
+                  "prefer"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I think buses are better than cars because they are cheaper."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about opinion dialogue. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about opinion dialogue. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Opinion frames **2.** Pair debate ×3 topics **3.** Note reasons **4.** Report partner **5.** Polite disagreement",
+              "produce": "**Speak:** dialogue **Write:** 8-line script",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D5.",
+              "checkpoint": "≥3 comparative reasons = Pass"
             },
             {
               "number": 6,
               "title": "Week 12 review",
-              "goal": "Learn and use 'comparative/superlative adjectives' accurately while expanding vocabulary for 'Week 12 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 12 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure comparative system.",
+              "warmup": "Error clinic more happier / most tallest.",
               "learn": {
-                "grammar": "comparative/superlative adjectives",
+                "grammar": "Form + than + the.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "-er",
+                  "more",
+                  "-est",
+                  "the most",
+                  "better",
+                  "best",
+                  "than"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "She is happier than before. This is the best café."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 12 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 12 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week12-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 12 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W12D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -2329,201 +2290,170 @@ const CURRICULUM = {
           "number": 13,
           "title": "Countable/uncountable; quantifiers",
           "levelBand": "A2",
-          "grammarFocus": "some/any/much/many/a lot of",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "count/non-count; some/any; much/many/a lot of",
+          "pronunciation": "Plural -s; weak some/any",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "Count vs non-count",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'Count vs non-count'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Count vs non-count\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Sort nouns; use a/an vs no article for mass nouns.",
+              "warmup": "apple vs rice piles.",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "Countable: a/an, plural -s. Uncountable: no a/an, no plural (water, rice, advice, information, money).",
                 "vocab": [
-                  "zero",
-                  "one",
-                  "two",
-                  "three",
-                  "four",
-                  "five",
-                  "six",
-                  "seven",
-                  "eight",
-                  "nine"
+                  "apple",
+                  "rice",
+                  "water",
+                  "bread",
+                  "money",
+                  "information",
+                  "advice",
+                  "furniture",
+                  "traffic",
+                  "homework",
+                  "chair",
+                  "idea"
                 ],
                 "examples": [
-                  "I am ten years old.",
-                  "My phone number is five-five-five.",
-                  "There are twelve months.",
-                  "I have two brothers.",
-                  "She is twenty-three."
+                  "I have an apple.",
+                  "I need some rice.",
+                  "Information is useful. (not informations)"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ zero.\n4. They ___ not one.\n5. He ___ two.\n6. We ___ three and four.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) zero\n\n**Sentence transformation:** Make these sentences negative:\n1. I am zero. → I am not zero.\n2. She is one. → __________\n3. They are two. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is zero. → __________\n3. They are one. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about count vs non-count. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: zero, one, two, three, four. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about count vs non-count. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: zero, one, two, three, four, five. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Sort C/U **2.** Fix plurals **3.** a/an only on C **4.** Odd one out **5.** Explain money/furniture",
+              "produce": "**Speak/Write:** 10 sentences correct C/U",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D1.",
+              "checkpoint": "Zero informations/furnitures = Pass"
             },
             {
               "number": 2,
               "title": "some / any",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'some / any'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"some / any\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "some in affirmatives; any in negatives/questions (basic).",
+              "warmup": "Offer tea: Would you like some…?",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "I have some apples. I don't have any milk. Do you have any money? (Offers: some OK in questions).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "some",
+                  "any",
+                  "a few",
+                  "a little"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "There are some eggs.",
+                  "There isn't any milk.",
+                  "Do you have any brothers?",
+                  "Would you like some tea?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about some / any. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about some / any. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** some/any choice **2.** Affirm/neg/Q table **3.** Fix I don't have some **4.** Dialogue shop **5.** Offer questions",
+              "produce": "**Speak/Write:** kitchen inventory dialogue",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D2.",
+              "checkpoint": "some/any pattern ≥80% = Pass"
             },
             {
               "number": 3,
               "title": "much / many / a lot",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'much / many / a lot'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"much / many / a lot\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "many + C plural; much + U (neg/Q); a lot of + both.",
+              "warmup": "How much/How many drills.",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "How many apples? How much water? a lot of friends/money. Affirm often prefers a lot of over much.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "much",
+                  "many",
+                  "a lot of",
+                  "lots of",
+                  "How much",
+                  "How many"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "How many chairs are there?",
+                  "How much time do we have?",
+                  "I have a lot of homework."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about much / many / a lot. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about much / many / a lot. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** much/many/a lot **2.** How much/many Qs **3.** Fix much people **4.** Mini survey **5.** Write answers",
+              "produce": "**Speak/Write:** 8 How much/many + answers",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D3.",
+              "checkpoint": "No much people / many water = Pass"
             },
             {
               "number": 4,
               "title": "Shopping language",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'Shopping language'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Shopping language\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Quantifiers in shopping requests.",
+              "warmup": "Role cards customer/shopkeeper.",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "I'd like some… / Do you have any…? / How much is…?",
                 "vocab": [
-                  "zero",
-                  "one",
-                  "two",
-                  "three",
-                  "four",
-                  "five",
-                  "six",
-                  "seven",
-                  "eight",
-                  "nine"
+                  "I'd like",
+                  "Do you have",
+                  "How much is",
+                  "How much are",
+                  "price",
+                  "bag",
+                  "bottle",
+                  "kilo",
+                  "loaf"
                 ],
                 "examples": [
-                  "I am ten years old.",
-                  "My phone number is five-five-five.",
-                  "There are twelve months.",
-                  "I have two brothers.",
-                  "She is twenty-three."
+                  "I'd like some bread.",
+                  "Do you have any eggs?",
+                  "How much is this? — It's 50 afghanis."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ zero.\n4. They ___ not one.\n5. He ___ two.\n6. We ___ three and four.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) zero\n\n**Sentence transformation:** Make these sentences negative:\n1. I am zero. → I am not zero.\n2. She is one. → __________\n3. They are two. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is zero. → __________\n3. They are one. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about shopping language. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: zero, one, two, three, four. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about shopping language. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: zero, one, two, three, four, five. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Phrase match **2.** Build requests **3.** Price Qs **4.** List 6 items with quantifiers **5.** Politeness",
+              "produce": "**Speak/Write:** shop dialogue 10+ lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D4.",
+              "checkpoint": "Quantifiers+shopping phrases = Pass"
             },
             {
               "number": 5,
               "title": "Shopping role-play",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'Shopping role-play'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Shopping role-play\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Full shop role-play with C/U + quantifiers.",
+              "warmup": "Prepare shopping list 8 items.",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "Combine there is/are + some/any + prices.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "shopping list",
+                  "customer",
+                  "assistant",
+                  "receipt",
+                  "change",
+                  "total"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I'd like a kilo of rice and some apples. Do you have any milk? How much is it?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about shopping role-play. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about shopping role-play. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** List C/U **2.** Script **3.** Perform timed **4.** Swap roles **5.** Feedback errors",
+              "produce": "**Speak 90–120s:** role-play **Write:** polished script",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D5.",
+              "checkpoint": "Natural some/any/much/many use = Pass"
             },
             {
               "number": 6,
               "title": "Week 13 review",
-              "goal": "Learn and use 'some/any/much/many/a lot of' accurately while expanding vocabulary for 'Week 13 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 13 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure C/U + quantifiers.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "some/any/much/many/a lot of",
+                "grammar": "Form map poster.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "some",
+                  "any",
+                  "much",
+                  "many",
+                  "a lot of",
+                  "countable",
+                  "uncountable"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "I don't have any money. How many eggs do you need?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 13 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 13 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week13-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 13 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W13D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -2531,201 +2461,158 @@ const CURRICULUM = {
           "number": 14,
           "title": "Future going to",
           "levelBand": "A2",
-          "grammarFocus": "be going to for plans & predictions",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "be going to for plans and evidence-based predictions",
+          "pronunciation": "gonna awareness vs careful going to; weak to",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "going to form",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'going to form'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"going to form\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Form am/is/are + going to + base.",
+              "warmup": "Paradigm chant.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "I am going to study. Questions: Are you going to…? Negatives: I'm not going to…",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "going to",
+                  "am",
+                  "is",
+                  "are",
+                  "plan",
+                  "tomorrow",
+                  "next week"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I am going to call you.",
+                  "She is going to travel.",
+                  "Are they going to come?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about going to form. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about going to form. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form table **2.** Gap be **3.** Q/neg **4.** Fix gonna in careful writing **5.** Oral swaps",
+              "produce": "**Speak/Write:** 10 going-to plans",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D1.",
+              "checkpoint": "Full be + going to + base = Pass"
             },
             {
               "number": 2,
               "title": "Plans this week",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'Plans this week'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Plans this week\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Talk about real near-future plans.",
+              "warmup": "Calendar for 7 days.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "going to for prior plans/intentions.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "tonight",
+                  "tomorrow",
+                  "this weekend",
+                  "on Friday",
+                  "meet",
+                  "visit",
+                  "finish",
+                  "start"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "Tomorrow I'm going to visit my uncle.",
+                  "We're going to finish the project on Friday."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about plans this week. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about plans this week. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Fill calendar **2.** 7 plan sentences **3.** Partner Qs **4.** Report he/she is going to **5.** Edit",
+              "produce": "**Speak 90s / Write 90w:** week plans",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D2.",
+              "checkpoint": "≥6 real plans = Pass"
             },
             {
               "number": 3,
               "title": "Predictions with evidence",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'Predictions with evidence'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Predictions with evidence\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Predict from present evidence.",
+              "warmup": "Look at clouds → It's going to rain.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "going to for predictions with evidence now.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "look",
+                  "evidence",
+                  "rain",
+                  "win",
+                  "be late",
+                  "fail",
+                  "pass",
+                  "careful"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Look at those clouds — it's going to rain.",
+                  "He's running — he's going to be late."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about predictions with evidence. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about predictions with evidence. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Evidence→prediction **2.** Picture prompts **3.** Contrast pure guess (will later) **4.** Pair invent **5.** Write 6",
+              "produce": "**Speak/Write:** 8 evidence predictions",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D3.",
+              "checkpoint": "Each has clear evidence = Pass"
             },
             {
               "number": 4,
               "title": "Invitations",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'Invitations'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Invitations\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Invite with going to / Would you like…?",
+              "warmup": "Invite a friend out.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "I'm going to the cinema. Would you like to come? Responses: Yes, I'd love to. / Sorry, I can't.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "Would you like to",
+                  "I'd love to",
+                  "Sorry, I can't",
+                  "come with me",
+                  "maybe"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I'm going to the park. Would you like to come? — Yes, I'd love to."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about invitations. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about invitations. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Invitation frames **2.** Accept/refuse politely **3.** Dialogue build **4.** Time/place details **5.** Role-play",
+              "produce": "**Speak/Write:** invitation dialogue",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D4.",
+              "checkpoint": "Invite + response complete = Pass"
             },
             {
               "number": 5,
               "title": "Weekend plan speech",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'Weekend plan speech'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Weekend plan speech\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Monologue of weekend plans.",
+              "warmup": "Bullet Sat/Sun morning–evening.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "Cohesive going-to talk with times.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "first",
+                  "then",
+                  "after that",
+                  "in the morning",
+                  "in the evening"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "On Saturday morning I'm going to clean. Then I'm going to meet my friends."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about weekend plan speech. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about weekend plan speech. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Outline **2.** Expand **3.** Add Qs to self **4.** Time fluency **5.** Record+fix",
+              "produce": "**Speak 90–120s / Write 100w**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D5.",
+              "checkpoint": "Clear weekend arc = Pass"
             },
             {
               "number": 6,
               "title": "Week 14 review",
-              "goal": "Learn and use 'be going to for plans & predictions' accurately while expanding vocabulary for 'Week 14 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 14 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure going to plans+predictions.",
+              "warmup": "Error clinic I going to.",
               "learn": {
-                "grammar": "be going to for plans & predictions",
+                "grammar": "Form + use split plans vs evidence.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "going to",
+                  "plan",
+                  "prediction",
+                  "Are you going to"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "I'm going to study. Look — it's going to rain."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 14 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 14 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week14-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 14 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W14D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -2733,201 +2620,154 @@ const CURRICULUM = {
           "number": 15,
           "title": "will vs going to",
           "levelBand": "A2",
-          "grammarFocus": "will for decisions/promises/offers",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "will for instant decisions, offers, promises; contrast with going to",
+          "pronunciation": "I'll reduction; won't",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "will decisions",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'will decisions'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"will decisions\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Instant decisions with will.",
+              "warmup": "Phone rings → I'll get it.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "will + base for decisions at speaking moment. Contractions I'll/he'll.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "will",
+                  "I'll",
+                  "he'll",
+                  "she'll",
+                  "won't",
+                  "decide",
+                  "right now"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "The phone is ringing — I'll answer it.",
+                  "I'm hungry — I'll make a sandwich."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about will decisions. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about will decisions. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Spot instant decisions **2.** I'll responses **3.** Fix I will to going to when plan **4.** Pair prompts **5.** Write 8",
+              "produce": "**Speak/Write:** 8 instant-decision lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D1.",
+              "checkpoint": "will for on-the-spot only = Pass"
             },
             {
               "number": 2,
               "title": "Offers & promises",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'Offers & promises'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Offers & promises\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Offer help and make promises with will.",
+              "warmup": "I'll help you. I won't tell anyone.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "I'll + base offers; promises; won't refusals carefully.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "I'll help",
+                  "I'll carry",
+                  "I'll call",
+                  "I promise",
+                  "I won't",
+                  "Shall I (intro)"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You look busy — I'll help you.",
+                  "I won't be late. Promise."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about offers & promises. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about offers & promises. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Offer frames **2.** Promise/won't **3.** Dialogue service **4.** Politeness **5.** Role cards",
+              "produce": "**Speak/Write:** offers+promises dialogue",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D2.",
+              "checkpoint": "≥4 offers/promises = Pass"
             },
             {
               "number": 3,
               "title": "will vs going to contrast",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'will vs going to contrast'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"will vs going to contrast\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Choose will vs going to correctly.",
+              "warmup": "Two-column sort.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "Prior plan → going to; instant decision/offer/promise → will; prediction: both possible (evidence→going to).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "plan",
+                  "decision",
+                  "offer",
+                  "promise",
+                  "prediction"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I'm going to visit my aunt (planned). Oh, the door's open — I'll close it (decision)."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about will vs going to contrast. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about will vs going to contrast. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Sort 12 items **2.** Fix wrong tense **3.** Explain why **4.** Dialogue mix **5.** Quiz",
+              "produce": "**Speak/Write:** 6 pairs contrasting uses",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D3.",
+              "checkpoint": "≥5/6 contrasts correct = Pass"
             },
             {
               "number": 4,
               "title": "Weather forecast language",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'Weather forecast language'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Weather forecast language\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Forecast with will / going to.",
+              "warmup": "Describe tomorrow's weather.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "It will be sunny. It's going to rain (evidence).",
                 "vocab": [
-                  "zero",
-                  "one",
-                  "two",
-                  "three",
-                  "four",
-                  "five",
-                  "six",
-                  "seven",
-                  "eight",
-                  "nine"
+                  "sunny",
+                  "cloudy",
+                  "rain",
+                  "snow",
+                  "temperature",
+                  "degrees",
+                  "forecast",
+                  " tomorrow"
                 ],
                 "examples": [
-                  "I am ten years old.",
-                  "My phone number is five-five-five.",
-                  "There are twelve months.",
-                  "I have two brothers.",
-                  "She is twenty-three."
+                  "Tomorrow it will be hot. Look at the sky — it's going to rain later."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ zero.\n4. They ___ not one.\n5. He ___ two.\n6. We ___ three and four.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) zero\n\n**Sentence transformation:** Make these sentences negative:\n1. I am zero. → I am not zero.\n2. She is one. → __________\n3. They are two. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is zero. → __________\n3. They are one. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about weather forecast language. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: zero, one, two, three, four. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about weather forecast language. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: zero, one, two, three, four, five. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Vocab **2.** Forecast script **3.** will vs going to weather **4.** Listen-style self dictation **5.** Map cities",
+              "produce": "**Speak/Write:** 60s forecast",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D4.",
+              "checkpoint": "Clear forecast language = Pass"
             },
             {
               "number": 5,
               "title": "Spontaneous reply practice",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'Spontaneous reply practice'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Spontaneous reply practice\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "React fast with I'll… in conversation.",
+              "warmup": "Rapid prompts.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "Speed + accuracy of will decisions/offers.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "quick reply",
+                  "I'll get",
+                  "I'll open",
+                  "I'll check",
+                  "I'll text"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "A: I can't open this. B: I'll do it."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about spontaneous reply practice. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about spontaneous reply practice. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Prompt→I'll reply ×15 **2.** Keep conversation going **3.** Mix going-to plans **4.** Record **5.** Error note",
+              "produce": "**Speak 90s:** rapid exchanges **Write:** 10 A/B lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D5.",
+              "checkpoint": "Fast appropriate I'll = Pass"
             },
             {
               "number": 6,
               "title": "Week 15 review",
-              "goal": "Learn and use 'will for decisions/promises/offers' accurately while expanding vocabulary for 'Week 15 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 15 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure will vs going to.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "will for decisions/promises/offers",
+                "grammar": "Use chart recall.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "will",
+                  "going to",
+                  "I'll",
+                  "won't"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "I'll help you. I'm going to study tonight."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 15 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 15 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week15-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 15 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W15D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -2935,201 +2775,162 @@ const CURRICULUM = {
           "number": 16,
           "title": "Present perfect intro",
           "levelBand": "A2",
-          "grammarFocus": "have/has + past participle (experience)",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "have/has + past participle for experience; ever/never; been vs gone",
+          "pronunciation": "have/'ve; has/'s; participle endings",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "have/has + V3",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'have/has + V3'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"have/has + V3\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Form present perfect with regular/irregular V3.",
+              "warmup": "have worked / have gone paradigm.",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "I/you/we/they have + V3; he/she has + V3. Regular V3 = V-ed; irregular learn list.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "have",
+                  "has",
+                  "worked",
+                  "seen",
+                  "been",
+                  "eaten",
+                  "written",
+                  "spoken",
+                  "finished",
+                  "lived"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I have finished.",
+                  "She has seen that film.",
+                  "They have lived here."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about have/has + v3. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about have/has + v3. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form table **2.** Regular V3 **3.** Irregular V3 set **4.** Fix he have **5.** Affirm 8 sentences",
+              "produce": "**Speak/Write:** 10 PP affirmatives",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D1.",
+              "checkpoint": "have/has agreement + V3 = Pass"
             },
             {
               "number": 2,
               "title": "ever / never",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'ever / never'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"ever / never\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Ask/answer experience with ever/never.",
+              "warmup": "Have you ever…?",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "Have you ever + V3? Yes, I have. / No, I haven't. I have never + V3.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "ever",
+                  "never",
+                  "Have you ever",
+                  "Yes, I have",
+                  "No, I haven't",
+                  "experience"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Have you ever eaten pizza? — Yes, I have.",
+                  "I have never flown."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about ever / never. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about ever / never. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Make ever Qs **2.** never statements **3.** Short answers **4.** Survey ×8 **5.** Report He has never…",
+              "produce": "**Speak/Write:** interview + report",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D2.",
+              "checkpoint": "ever in Q / never in + = Pass"
             },
             {
               "number": 3,
               "title": "been vs gone",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'been vs gone'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"been vs gone\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Contrast been (returned) vs gone (still there).",
+              "warmup": "Timeline drawings.",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "She has gone to Iran (still there). She has been to Iran (visited, back).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "been",
+                  "gone",
+                  "to",
+                  "still there",
+                  "back"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Ali has gone to the shop — he isn't here.",
+                  "Ali has been to the shop — he's back now."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about been vs gone. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about been vs gone. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Choose been/gone **2.** Picture timelines **3.** Fix **4.** Pair explain **5.** Write 6",
+              "produce": "**Speak/Write:** 6 clear contrasts",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D3.",
+              "checkpoint": "been/gone meaning correct = Pass"
             },
             {
               "number": 4,
               "title": "Life experiences",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'Life experiences'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Life experiences\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Talk about life experiences without finished past time.",
+              "warmup": "List 8 experiences.",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "PP for life experience (no yesterday/ago in same clause).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "travel",
+                  "try",
+                  "meet",
+                  "learn",
+                  "win",
+                  "lose",
+                  "visit",
+                  "break"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I have visited Bamyan.",
+                  "She has learned to drive.",
+                  "We have never won a prize."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about life experiences. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about life experiences. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Experience list→PP **2.** Ban ago/yesterday here **3.** Peer ever Qs **4.** Expand details carefully **5.** Edit",
+              "produce": "**Speak 90s / Write 90w:** experiences",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D4.",
+              "checkpoint": "No ago with PP = Pass"
             },
             {
               "number": 5,
               "title": "Interview: Have you ever…?",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'Interview: Have you ever…?'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Interview: Have you ever…?\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Full ever interview + follow-ups.",
+              "warmup": "10 ever questions prepared.",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "Follow-up often switches to past simple: When did you…?",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "follow-up",
+                  "When did you",
+                  "Where did you",
+                  "What happened"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Have you ever traveled alone? — Yes, I have. — When did you go? — I went last year."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about interview: have you ever…?. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about interview: have you ever…?. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Q bank **2.** Interview **3.** Follow-ups past simple **4.** Notes **5.** Oral report",
+              "produce": "**Speak 2 min / Write:** report with PP + past simple follow-ups",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D5.",
+              "checkpoint": "PP then past simple follow-up = Pass"
             },
             {
               "number": 6,
               "title": "Week 16 review",
-              "goal": "Learn and use 'have/has + past participle (experience)' accurately while expanding vocabulary for 'Week 16 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 16 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure PP experience basics.",
+              "warmup": "Error clinic I have went; ever with never wrong.",
               "learn": {
-                "grammar": "have/has + past participle (experience)",
+                "grammar": "Form + ever/never + been/gone.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "have",
+                  "has",
+                  "ever",
+                  "never",
+                  "been",
+                  "gone"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "Have you ever been to Mazar? I have never gone skiing. Wait—use been for visit."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 16 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 16 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week16-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 16 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W16D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -3137,201 +2938,152 @@ const CURRICULUM = {
           "number": 17,
           "title": "Present perfect vs past simple",
           "levelBand": "A2",
-          "grammarFocus": "finished time vs experience",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "Experience vs finished past time; for/since intro",
+          "pronunciation": "Contrast stress on time markers",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "Contrast timeline",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'Contrast timeline'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Contrast timeline\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Choose PP vs past simple from timelines.",
+              "warmup": "Draw experience vs finished event.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "Past simple + finished time (yesterday, ago). PP for experience/up-to-now without finished time.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "present perfect",
+                  "past simple",
+                  "finished time",
+                  "up to now"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I have visited Herat. I visited Herat in 2022.",
+                  "She has lost her keys (still lost). She lost them yesterday (time given)."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about contrast timeline. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about contrast timeline. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Timeline sort **2.** Choose tense **3.** Explain **4.** Fix mixed errors **5.** Quiz 10",
+              "produce": "**Speak/Write:** 6 contrast pairs",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D1.",
+              "checkpoint": "≥5/6 tense choice = Pass"
             },
             {
               "number": 2,
               "title": "ago / last / yesterday vs ever",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'ago / last / yesterday vs ever'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"ago / last / yesterday vs ever\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Time marker discipline.",
+              "warmup": "Marker→tense mapping.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "ago/last/yesterday → past simple. ever/never/already/yet (intro) → PP.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
+                  "ago",
+                  "last",
                   "yesterday",
-                  "tomorrow"
+                  "ever",
+                  "never",
+                  "already",
+                  "yet"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "I saw him yesterday. Have you ever seen him?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about ago / last / yesterday vs ever. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about ago / last / yesterday vs ever. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Marker sort **2.** Sentence completion **3.** Ban conflicts **4.** Rewrite wrong mixes **5.** Oral rapid",
+              "produce": "**Speak/Write:** 10 sentences correct markers",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D2.",
+              "checkpoint": "Zero yesterday+have = Pass"
             },
             {
               "number": 3,
               "title": "for / since intro",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'for / since intro'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"for / since intro\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "for + period; since + point with PP.",
+              "warmup": "for three years / since 2020.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "I have lived here for 3 years / since 2021.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "for",
+                  "since",
+                  "years",
+                  "months",
+                  "a long time",
+                  "2020",
+                  "Monday"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I have studied English for two years.",
+                  "She has worked here since 2019."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about for / since intro. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about for / since intro. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** for vs since **2.** Gap-fill **3.** Personal true **4.** Fix since two years **5.** Q How long…?",
+              "produce": "**Speak/Write:** 8 for/since lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D3.",
+              "checkpoint": "for/since accurate = Pass"
             },
             {
               "number": 4,
               "title": "Personal timeline",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'Personal timeline'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Personal timeline\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Build life timeline mixing PP and past simple.",
+              "warmup": "5 milestones.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "Narrative control of both tenses.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "born",
+                  "started",
+                  "moved",
+                  "learned",
+                  "met"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I was born in… I have lived in Kabul since… I started school in…"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about personal timeline. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about personal timeline. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Timeline notes **2.** Draft **3.** Mark tense reasons **4.** Peer How long/When **5.** Edit",
+              "produce": "**Speak 90–120s / Write 110w**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D4.",
+              "checkpoint": "Both tenses used correctly = Pass"
             },
             {
               "number": 5,
               "title": "Story + Q&A",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'Story + Q&A'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Story + Q&A\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Tell story; answer ever/when questions.",
+              "warmup": "Partner roles.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "Flexible switching PP ↔ past simple in conversation.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "story",
+                  "question",
+                  "answer",
+                  "detail"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Have you ever broken a phone? — Yes. — When did it happen? — It happened last month."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about story + q&a. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about story + q&a. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Story prep **2.** Ever Qs **3.** When follow-ups **4.** Swap **5.** Feedback",
+              "produce": "**Speak 2 min / Write:** dialogue transcript",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D5.",
+              "checkpoint": "Clean switches = Pass"
             },
             {
               "number": 6,
               "title": "Week 17 review",
-              "goal": "Learn and use 'finished time vs experience' accurately while expanding vocabulary for 'Week 17 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 17 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure PP vs past simple.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "finished time vs experience",
+                "grammar": "Marker + for/since check.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "have",
+                  "did",
+                  "ago",
+                  "ever",
+                  "for",
+                  "since"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "I have known her for years. I met her in 2018."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 17 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 17 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week17-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 17 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W17D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -3339,201 +3091,154 @@ const CURRICULUM = {
           "number": 18,
           "title": "Modals: should, must, have to",
           "levelBand": "A2",
-          "grammarFocus": "advice & obligation",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "advice should; obligation must/have to; mustn't vs don't have to",
+          "pronunciation": "should weak; must strong; have to rhythm",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "should advice",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'should advice'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"should advice\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Give advice with should/shouldn't.",
+              "warmup": "Problem→advice cards.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "should + base; shouldn't + base. Questions: Should I…?",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "should",
+                  "shouldn't",
+                  "advice",
+                  "I think you should",
+                  "maybe"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You should sleep more.",
+                  "You shouldn't smoke.",
+                  "Should I call her?"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about should advice. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about should advice. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form **2.** Advice for 6 problems **3.** shouldn't **4.** Soften with maybe **5.** Dialogue",
+              "produce": "**Speak/Write:** 8 advice lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D1.",
+              "checkpoint": "should + base only = Pass"
             },
             {
               "number": 2,
               "title": "must / have to",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'must / have to'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"must / have to\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Express obligation.",
+              "warmup": "School/work rules list.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "must / have to + base (similar meaning often); has to for he/she. Questions: Do I have to…?",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "must",
+                  "have to",
+                  "has to",
+                  "Do I have to",
+                  "obligation",
+                  "rule"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You must wear a seatbelt.",
+                  "I have to work tomorrow.",
+                  "She has to get up early."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about must / have to. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about must / have to. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form **2.** Rules→must/have to **3.** has to **4.** Do I have to Qs **5.** Personal duties",
+              "produce": "**Speak/Write:** 8 obligations",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D2.",
+              "checkpoint": "Correct have/has to = Pass"
             },
             {
               "number": 3,
               "title": "mustn't vs don't have to",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'mustn't vs don't have to'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"mustn't vs don't have to\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Prohibition vs no obligation.",
+              "warmup": "Sign photos: No smoking vs optional.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "mustn't = not allowed. don't have to = not necessary.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "mustn't",
+                  "don't have to",
+                  "doesn't have to",
+                  "prohibition",
+                  "optional"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You mustn't use your phone in the exam.",
+                  "You don't have to come if you're busy."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about mustn't vs don't have to. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about mustn't vs don't have to. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Contrast pairs **2.** Choose form **3.** Fix swaps **4.** Make signs **5.** Explain aloud",
+              "produce": "**Speak/Write:** 6 contrast pairs",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D3.",
+              "checkpoint": "No meaning swap errors = Pass"
             },
             {
               "number": 4,
               "title": "Health & rules",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'Health & rules'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Health & rules\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Apply modals to health and public rules.",
+              "warmup": "Clinic/school contexts.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "Mix should/must/have to/mustn't/don't have to.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "healthy",
+                  "exercise",
+                  "medicine",
+                  "password",
+                  "quiet",
+                  "queue"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You should drink water. You must follow the rules. You don't have to run."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about health & rules. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about health & rules. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Sort advice vs rules **2.** Poster sentences **3.** Role doctor/patient **4.** School rules **5.** Edit",
+              "produce": "**Speak/Write:** health+rules paragraph",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D4.",
+              "checkpoint": "Mixed modals accurate = Pass"
             },
             {
               "number": 5,
               "title": "Advice column speaking",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'Advice column speaking'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Advice column speaking\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Give extended advice on a problem.",
+              "warmup": "Pick a problem card.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "Organized advice: should ×3 + one must/mustn't if needed.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "problem",
+                  "solution",
+                  "first",
+                  "also",
+                  "finally"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "You look stressed. First, you should rest. Also, you shouldn't drink too much coffee."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about advice column speaking. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about advice column speaking. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Plan **2.** 60–90s advice **3.** Peer score clarity **4.** Rewrite **5.** Soft language",
+              "produce": "**Speak 90s / Write 100w:** advice column",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D5.",
+              "checkpoint": "Clear structured advice = Pass"
             },
             {
               "number": 6,
               "title": "Week 18 review",
-              "goal": "Learn and use 'advice & obligation' accurately while expanding vocabulary for 'Week 18 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 18 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure modal set.",
+              "warmup": "Error clinic must to go; don't must.",
               "learn": {
-                "grammar": "advice & obligation",
+                "grammar": "Meaning map recall.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "should",
+                  "must",
+                  "have to",
+                  "mustn't",
+                  "don't have to"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "You should study. You mustn't cheat. You don't have to finish today."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 18 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 18 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week18-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 18 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W18D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -3541,201 +3246,154 @@ const CURRICULUM = {
           "number": 19,
           "title": "First conditional; when/if",
           "levelBand": "A2",
-          "grammarFocus": "if + present, will…",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "if + present, will…; if vs when",
+          "pronunciation": "comma pause; weak'll",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "First conditional form",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'First conditional form'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"First conditional form\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Form if + present simple, will + base.",
+              "warmup": "If it rains, I'll stay home.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "If-clause present; result will. Either clause first; comma if if-clause first.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "if",
+                  "will",
+                  "won't",
+                  "present simple",
+                  "result"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "If I study, I will pass.",
+                  "If she calls, we'll answer.",
+                  "We'll go out if the weather is good."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about first conditional form. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about first conditional form. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Form drills **2.** Match halves **3.** Comma rule **4.** Fix if I will **5.** 8 sentences",
+              "produce": "**Speak/Write:** 8 first conditionals",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D1.",
+              "checkpoint": "No will in if-clause = Pass"
             },
             {
               "number": 2,
               "title": "if vs when",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'if vs when'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"if vs when\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "if = possible; when = expected/certain.",
+              "warmup": "Contrast pairs.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "When I get home, I'll call (expected). If I get time, I'll call (not sure).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "if",
+                  "when",
+                  "possible",
+                  "certain",
+                  "as soon as (intro)"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "When I finish work, I'll rest.",
+                  "If I finish early, I'll cook."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about if vs when. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about if vs when. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Choose if/when **2.** Explain **3.** Personal plans **4.** Fix **5.** Dialogue",
+              "produce": "**Speak/Write:** 6 if + 6 when",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D2.",
+              "checkpoint": "Meaning contrast clear = Pass"
             },
             {
               "number": 3,
               "title": "Real future situations",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'Real future situations'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Real future situations\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Use first conditional for real plans/warnings.",
+              "warmup": "Study/travel/work scenarios.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "Practical outcomes.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "pass",
+                  "fail",
+                  "miss",
+                  "catch",
+                  "save",
+                  "spend",
+                  "late",
+                  "early"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "If you don't hurry, you'll miss the bus.",
+                  "If we save money, we'll travel."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about real future situations. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about real future situations. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Scenario cards **2.** Warnings **3.** Promises with if **4.** Pair invent **5.** Write paragraph",
+              "produce": "**Speak/Write:** 8 real-life conditionals",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D3.",
+              "checkpoint": "Natural real uses = Pass"
             },
             {
               "number": 4,
               "title": "Travel problems",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'Travel problems'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Travel problems\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Conditionals for travel problems/solutions.",
+              "warmup": "Lost bag / delay cards.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "If + problem, will + action.",
                 "vocab": [
-                  "car",
-                  "bus",
-                  "train",
-                  "plane",
-                  "bike",
-                  "taxi",
-                  "metro",
-                  "boat",
-                  "walk",
-                  "drive"
+                  "delay",
+                  "passport",
+                  "ticket",
+                  "miss",
+                  "hotel",
+                  "map",
+                  "help"
                 ],
                 "examples": [
-                  "I go by bus.",
-                  "The train is fast.",
-                  "She drives a car.",
-                  "This plane is big.",
-                  "I walk to school."
+                  "If I lose my passport, I'll go to the embassy.",
+                  "If the flight is late, we'll wait."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ car.\n4. They ___ not bus.\n5. He ___ train.\n6. We ___ plane and bike.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) car\n\n**Sentence transformation:** Make these sentences negative:\n1. I am car. → I am not car.\n2. She is bus. → __________\n3. They are train. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is car. → __________\n3. They are bus. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about travel problems. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: car, bus, train, plane, bike. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about travel problems. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: car, bus, train, plane, bike, taxi. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Problem bank **2.** Conditional solutions **3.** Role airport **4.** Advice mix should+if **5.** Edit",
+              "produce": "**Speak:** problem-solution talk **Write:** 8 lines",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D4.",
+              "checkpoint": "≥6 travel conditionals = Pass"
             },
             {
               "number": 5,
               "title": "Problem-solution dialogue",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'Problem-solution dialogue'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Problem-solution dialogue\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Extended dialogue with if/when.",
+              "warmup": "Customer/help desk.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "Interactive first conditionals.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "What will you do if",
+                  "If that happens",
+                  "then"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "A: What will you do if it rains? B: If it rains, we'll take a taxi."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about problem-solution dialogue. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about problem-solution dialogue. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Script skeleton **2.** Perform **3.** Swap **4.** Add when **5.** Polish",
+              "produce": "**Speak 90–120s / Write:** full dialogue",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D5.",
+              "checkpoint": "Fluent if/when dialogue = Pass"
             },
             {
               "number": 6,
               "title": "Week 19 review",
-              "goal": "Learn and use 'if + present, will…' accurately while expanding vocabulary for 'Week 19 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 19 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure first conditional + if/when.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "if + present, will…",
+                "grammar": "Form+meaning gate.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "if",
+                  "when",
+                  "will",
+                  "won't"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "If it rains, I won't go. When I arrive, I'll text you."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 19 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 19 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week19-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 19 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W19D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -3743,201 +3401,150 @@ const CURRICULUM = {
           "number": 20,
           "title": "Relative clauses who/which/that",
           "levelBand": "A2",
-          "grammarFocus": "defining relative clauses",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "defining who/which/that to combine sentences",
+          "pronunciation": "no pause in defining clauses; that reduction awareness",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "who / which / that",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'who / which / that'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"who / which / that\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Choose relative pronouns.",
+              "warmup": "Person who; thing which/that.",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "who for people; which for things; that for people or things (defining).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "who",
+                  "which",
+                  "that",
+                  "relative clause",
+                  "define"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "The woman who teaches us is kind.",
+                  "The book that I bought is useful.",
+                  "The phone which is on the desk is mine."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about who / which / that. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about who / which / that. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Choose pronoun **2.** Gap-fill **3.** Fix who for things **4.** Oral combine **5.** Write 8",
+              "produce": "**Speak/Write:** 8 relative sentences",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D1.",
+              "checkpoint": "Pronoun choice ≥80% = Pass"
             },
             {
               "number": 2,
               "title": "Combining sentences",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'Combining sentences'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Combining sentences\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Join two sentences into one defining clause.",
+              "warmup": "She is a teacher. She lives here → …",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "Remove repeated noun; insert who/which/that.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "combine",
+                  "subject relative",
+                  "object relative (intro)"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I have a friend who speaks Japanese.",
+                  "This is the bag that I lost."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about combining sentences. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about combining sentences. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Combine 10 pairs **2.** Subject vs object feel **3.** Optional that note **4.** Peer check **5.** Timed",
+              "produce": "**Speak/Write:** combine exercise set",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D2.",
+              "checkpoint": "10 combines ≤2 errors = Pass"
             },
             {
               "number": 3,
               "title": "Describing people/things",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'Describing people/things'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Describing people/things\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Richer descriptions with relatives.",
+              "warmup": "Describe classmates/objects.",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "Noun + relative clause as description tool.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "friend",
+                  "neighbor",
+                  "app",
+                  "tool",
+                  "place",
+                  "restaurant"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "He's the neighbor who helped me.",
+                  "It's an app that teaches English."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about describing people/things. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about describing people/things. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** People×5 **2.** Things×5 **3.** Avoid comma defining **4.** Expand adjectives+relative **5.** Edit",
+              "produce": "**Speak/Write:** 10 descriptions",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D3.",
+              "checkpoint": "Natural defining clauses = Pass"
             },
             {
               "number": 4,
               "title": "City guide sentences",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'City guide sentences'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"City guide sentences\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Write guidebook-style relative sentences.",
+              "warmup": "City attractions list.",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "Places which/that…; people who…",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "museum",
+                  "mosque",
+                  "market",
+                  "bridge",
+                  "famous",
+                  "historic"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Visit the market that sells spices.",
+                  "This is the bridge which crosses the river."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about city guide sentences. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about city guide sentences. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Attraction notes **2.** 8 guide sentences **3.** Mini guide paragraph **4.** Peer tour Qs **5.** Polish",
+              "produce": "**Speak:** 60s mini tour **Write:** guide blurb 100w",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D4.",
+              "checkpoint": "≥6 relative guide lines = Pass"
             },
             {
               "number": 5,
               "title": "Describe people you know",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'Describe people you know'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Describe people you know\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Monologue about people using who/that.",
+              "warmup": "3 people prep notes.",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "Fluency with relatives in speech.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "kind",
+                  "funny",
+                  "works",
+                  "lives",
+                  "met"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "My uncle who lives in Herat is a doctor. He's the person that taught me chess."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about describe people you know. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about describe people you know. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Notes **2.** 90s talk **3.** Record **4.** Add 2 clauses **5.** Write paragraph",
+              "produce": "**Speak 90–120s / Write 100w**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D5.",
+              "checkpoint": "≥5 who/that clauses = Pass"
             },
             {
               "number": 6,
               "title": "Week 20 review",
-              "goal": "Learn and use 'defining relative clauses' accurately while expanding vocabulary for 'Week 20 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 20 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure defining relatives.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "defining relative clauses",
+                "grammar": "who/which/that map.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "who",
+                  "which",
+                  "that"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "The student who called you is here."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 20 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 20 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week20-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 20 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W20D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -3945,201 +3552,154 @@ const CURRICULUM = {
           "number": 21,
           "title": "Reported speech basics; articles",
           "levelBand": "A2",
-          "grammarFocus": "say/tell + that; a/the review",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "say/tell; reporting statements; a/an/the review",
+          "pronunciation": "that optional; article vowel sounds again",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "say vs tell",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'say vs tell'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"say vs tell\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Use say and tell correctly.",
+              "warmup": "say something; tell someone.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "tell + person; say (+ that) without person (or say to someone).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "say",
+                  "tell",
+                  "said",
+                  "told",
+                  "that"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "She said (that) she was tired.",
+                  "She told me (that) she was tired.",
+                  "He said hello."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about say vs tell. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about say vs tell. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** say/tell choice **2.** Fix tell that / say me **3.** Transform **4.** Dialogue **5.** Write 8",
+              "produce": "**Speak/Write:** 8 say/tell sentences",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D1.",
+              "checkpoint": "No say me / tell that alone = Pass"
             },
             {
               "number": 2,
               "title": "Reporting statements",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'Reporting statements'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Reporting statements\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Report present statements in past contexts (backshift intro).",
+              "warmup": "Direct→reported.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "Basic backshift: am→was, present→past often after past reporting verb. Keep simple.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "reported speech",
+                  "direct speech",
+                  "backshift",
+                  "was",
+                  "were"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "\"I am busy,\" → He said he was busy.",
+                  "\"We live here,\" → They said they lived there (place shift intro)."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about reporting statements. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about reporting statements. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Transform 8 **2.** Optional that **3.** Pronoun shifts **4.** Fix **5.** Oral chain",
+              "produce": "**Speak/Write:** report 8 quotes",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D2.",
+              "checkpoint": "Sensible backshift = Pass"
             },
             {
               "number": 3,
               "title": "Articles a/an/the",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'Articles a/an/the'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Articles a/an/the\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Repair a/an/the systems at A2.",
+              "warmup": "Known vs unknown; unique the.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "a/an first mention; the known/unique; zero for general plurals/uncountables sometimes.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "a",
+                  "an",
+                  "the",
+                  "zero article",
+                  "first mention",
+                  "unique"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I saw a cat. The cat was black.",
+                  "The sun is hot.",
+                  "I like music."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about articles a/an/the. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about articles a/an/the. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Choose article **2.** First/second mention **3.** Unique the **4.** Zero article cases **5.** Paragraph edit",
+              "produce": "**Speak/Write:** 10 article-critical sentences + edit a paragraph",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D3.",
+              "checkpoint": "Article edit ≤2 errors = Pass"
             },
             {
               "number": 4,
               "title": "News paraphrase",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'News paraphrase'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"News paraphrase\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Paraphrase short news with say/tell + articles.",
+              "warmup": "3 short headlines.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "Report without copying; control articles.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "news",
+                  "report",
+                  "according to",
+                  "said",
+                  "told reporters"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "The minister said that the project was important."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about news paraphrase. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about news paraphrase. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Read short items **2.** Notes **3.** Reported paraphrase **4.** Article check **5.** Peer compare",
+              "produce": "**Speak/Write:** 3 paraphrases",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D4.",
+              "checkpoint": "Clear reported paraphrase = Pass"
             },
             {
               "number": 5,
               "title": "Report a conversation",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'Report a conversation'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Report a conversation\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Report a dialogue you heard/invented.",
+              "warmup": "4-line dialogue→report.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "Mixed say/tell + backshift + articles.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "conversation",
+                  "asked (intro)",
+                  "answered",
+                  "then"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Maya told Omar that she was going to study. Omar said he would help."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about report a conversation. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about report a conversation. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Write direct dialogue **2.** Convert report **3.** Check say/tell **4.** Record oral report **5.** Polish",
+              "produce": "**Speak 90s / Write 110w:** conversation report",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D5.",
+              "checkpoint": "Coherent report = Pass"
             },
             {
               "number": 6,
               "title": "Week 21 review",
-              "goal": "Learn and use 'say/tell + that; a/the review' accurately while expanding vocabulary for 'Week 21 review'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Week 21 review\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Secure say/tell + articles + light reported speech.",
+              "warmup": "Error clinic.",
               "learn": {
-                "grammar": "say/tell + that; a/the review",
+                "grammar": "Mini gate tasks.",
                 "vocab": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                  "today",
-                  "yesterday",
-                  "tomorrow"
+                  "say",
+                  "tell",
+                  "a",
+                  "an",
+                  "the",
+                  "said",
+                  "told"
                 ],
                 "examples": [
-                  "Today is Monday.",
-                  "Yesterday was Sunday.",
-                  "I work on Tuesday.",
-                  "Friday is my favorite day.",
-                  "Tomorrow is Saturday."
+                  "She told me that she had a car. The car was new."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ Monday.\n4. They ___ not Tuesday.\n5. He ___ Wednesday.\n6. We ___ Thursday and Friday.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) Monday\n\n**Sentence transformation:** Make these sentences negative:\n1. I am Monday. → I am not Monday.\n2. She is Tuesday. → __________\n3. They are Wednesday. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is Monday. → __________\n3. They are Tuesday. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about week 21 review. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: Monday, Tuesday, Wednesday, Thursday, Friday. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about week 21 review. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week21-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Gate**",
+              "produce": "**Week 21 gate**",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W21D6.",
+              "checkpoint": "Pass 4/5"
             }
           ]
         },
@@ -4147,201 +3707,145 @@ const CURRICULUM = {
           "number": 22,
           "title": "A2 consolidation & gate",
           "levelBand": "A2",
-          "grammarFocus": "mixed A2 structures",
-          "pronunciation": "integrate sounds/stress/linking in warm-ups; Day 6 includes a short pronunciation recycle.",
-          "studyLoad": "~12 hrs/week across Days 1–6 (Day 6 = review/integration heavier).",
+          "grammarFocus": "Mixed A2 structures; writing/speaking gates; portfolio",
+          "pronunciation": "Fluency + accuracy under light time pressure",
+          "studyLoad": "~12 hrs/week across Days 1–6",
           "days": [
             {
               "number": 1,
               "title": "Tense review map",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'Tense review map'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Tense review map\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Build a personal map of A2 tenses/aspects.",
+              "warmup": "Draw boxes: past simple, PP, going to, will, continuous.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "When to use each form — one example each.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "past simple",
+                  "present perfect",
+                  "going to",
+                  "will",
+                  "present continuous",
+                  "present simple"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I went yesterday. I have visited Balkh. I'm going to study. I'll help. I'm working now. I work every day."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about tense review map. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about tense review map. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day1. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Map **2.** Example each **3.** Marker list **4.** Peer quiz **5.** Fix 8 mixed errors",
+              "produce": "**Speak/Write:** explain your map with examples",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D1.",
+              "checkpoint": "6 forms exemplified correctly = Pass"
             },
             {
               "number": 2,
               "title": "Error correction clinic",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'Error correction clinic'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Error correction clinic\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Correct typical A2 errors across weeks 11–21.",
+              "warmup": "Error sheet.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "Self-editing skill.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "error",
+                  "correct",
+                  "explain"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Did you went → Did you go. I have saw → I have seen. more happier → happier."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about error correction clinic. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about error correction clinic. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day2. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Fix 15 errors **2.** Classify type **3.** Explain 5 aloud **4.** Retest **5.** Personal error list",
+              "produce": "**Speak:** teach 3 fixes **Write:** corrected paragraph",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D2.",
+              "checkpoint": "15 fixes ≥12 = Pass"
             },
             {
               "number": 3,
               "title": "Listening for gist A2",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'Listening for gist A2'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"Listening for gist A2\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Practice gist listening strategies (self-sourced audio).",
+              "warmup": "Play a slow A2 dialogue/podcast segment twice.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "Listen for main idea, speakers, attitude — not every word.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "gist",
+                  "main idea",
+                  "speaker",
+                  "topic",
+                  "attitude",
+                  "keyword"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "The main idea is they are planning a trip. The woman is worried about money."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about listening for gist a2. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about listening for gist a2. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day3. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Predict **2.** Listen gist Qs **3.** Keyword notes **4.** Second listen detail×3 **5.** Summary 3 sentences",
+              "produce": "**Speak/Write:** 3-sentence gist summary",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D3.",
+              "checkpoint": "Accurate gist summary = Pass"
             },
             {
               "number": 4,
               "title": "A2 writing gate (120–150 words)",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'A2 writing gate (120–150 words)'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"A2 writing gate (120–150 words)\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Write a 120–150 word text on a familiar topic.",
+              "warmup": "Choose: last trip / future plans / advice to a friend.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "Cohesion + A2 grammar range (past, future, modal, or PP as fits topic).",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "paragraph",
+                  "topic sentence",
+                  "cohesion",
+                  "word count"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "Last year I went to… I have never forgotten… Next year I'm going to…"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about a2 writing gate (120–150 words). Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about a2 writing gate (120–150 words). Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day4. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Plan bullets **2.** Draft **3.** Count words **4.** Edit grammar/articles **5.** Final copy",
+              "produce": "**Write 120–150w** gate text (required)",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D4.",
+              "checkpoint": "120–150w + clear structure + ≤5 major errors = Pass"
             },
             {
               "number": 5,
               "title": "A2 speaking gate",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'A2 speaking gate'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"A2 speaking gate\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "2–3 minute speaking performance.",
+              "warmup": "Topics: self+routine, past experience, plans, opinion compare.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "Sustain talk with range from A2 syllabus.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "fluency",
+                  "range",
+                  "accuracy",
+                  "repair"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I've lived here for… Last year I… I'm going to… I think X is better than Y because…"
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about a2 speaking gate. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about a2 speaking gate. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day5. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**1.** Cue cards **2.** Timed 2–3 min **3.** Record **4.** Note 3 strengths/3 fixes **5.** Second take",
+              "produce": "**Speak 2–3 min** gate recording",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D5.",
+              "checkpoint": "2–3 min sustained with A2 range = Pass"
             },
             {
               "number": 6,
               "title": "A2 portfolio & next steps",
-              "goal": "Learn and use 'mixed A2 structures' accurately while expanding vocabulary for 'A2 portfolio & next steps'.",
-              "warmup": "Review yesterday's checkpoint (mark yes/no). Do a 2-minute free-speak voice memo about \"A2 portfolio & next steps\" — say anything you know already. Complete 10-15 Anki cards (new + review). Practice today's pronunciation focus: minimal pairs or key sounds from the vocabulary.",
+              "goal": "Assemble A2 evidence; decide readiness for B1.",
+              "warmup": "Checklist Yes/No honestly.",
               "learn": {
-                "grammar": "mixed A2 structures",
+                "grammar": "A2 can-do: past narratives, plans/predictions, experience PP, advice modals, simple conditionals, short description/opinion.",
                 "vocab": [
-                  "happy",
-                  "sad",
-                  "tired",
-                  "hungry",
-                  "thirsty",
-                  "hot",
-                  "cold",
-                  "big",
-                  "small",
-                  "new"
+                  "portfolio",
+                  "checklist",
+                  "B1",
+                  "ready",
+                  "review week"
                 ],
                 "examples": [
-                  "I am happy today.",
-                  "She is not tired.",
-                  "The room is hot.",
-                  "They are hungry.",
-                  "This car is very old."
+                  "I can tell a past story. I can talk about plans. I can give advice. I can write 120 words."
                 ]
               },
-              "practice": "**Gap-fill exercise:** Complete these sentences with am/is/are:\n1. I ___ a student.\n2. She ___ from Japan.\n3. You ___ happy.\n4. They ___ not sad.\n5. He ___ tired.\n6. We ___ hungry and thirsty.\n\n**Matching:** Connect the words to make correct sentences:\n1. I am          → a) a teacher\n2. You are       → b) from Turkey\n3. She is        → c) students\n4. We are        → d) not tired\n5. They are      → e) happy\n\n**Sentence transformation:** Make these sentences negative:\n1. I am happy. → I am not happy.\n2. She is sad. → __________\n3. They are tired. → __________\n\n**Questions:** Change to question form:\n1. You are a student. → Are you a student?\n2. He is happy. → __________\n3. They are sad. → __________",
-              "produce": "**Speaking task:** Record a 60-90 second voice memo about a2 portfolio & next steps. Use the 'be' verb (am/is/are) in at least 5 different sentences. Include these words: happy, sad, tired, hungry, thirsty. Speak slowly and clearly. After recording, listen once and write down 2-3 things you want to improve (pronunciation, grammar, or vocabulary).\n\n**Writing task:** Write 6-8 sentences (60-80 words) about a2 portfolio & next steps. Use 'am', 'is', or 'are' in every sentence. Include at least 6 words from today's vocabulary: happy, sad, tired, hungry, thirsty, hot. Example opening: \"Today I am learning about...\" Check your work for: capital letters at the start, periods at the end, correct 'be' verb forms.",
-              "review": "Add all new vocabulary to Anki with example sentences. Tag cards as Week22-Day6. Create a grammar pattern card: write one model sentence, then make a cloze-deletion version (e.g., \"I ___ a student\"). Review your speaking recording and repeat your hardest sentence 3 times until it sounds natural.",
-              "checkpoint": "Self-test (no notes): Write 5 vocabulary words from today. Use 3 of them in complete sentences with the correct 'be' verb form (am/is/are). Check your answers. Pass = 4+ correct vocab words AND 2+ correct sentences. Mark honestly: Yes or No."
+              "practice": "**Self-audit:** collect best W11–22 samples · score checklist · list 5 weak points · plan first B1 week focus",
+              "produce": "**Speak 1 min / Write:** readiness reflection 80–100w",
+              "review": "Anki: today's vocab + grammar cloze. Tag: W22D6.",
+              "checkpoint": "A2 gate Pass if writing+speaking gates Yes and checklist ≥80%"
             }
           ]
         }
